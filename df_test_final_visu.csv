@@ -1,0 +1,1501 @@
+,SK_ID_CURR,NAME_CONTRACT_TYPE,DAYS_BIRTH,NAME_INCOME_TYPE,NAME_FAMILY_STATUS,CNT_CHILDREN
+10,100074,Cash loans,-23670,Pensioner,Married,0
+85,100677,Cash loans,-14806,Commercial associate,Married,1
+121,100982,Cash loans,-8699,Working,Civil marriage,2
+192,101332,Cash loans,-21514,Pensioner,Married,0
+204,101366,Cash loans,-18836,State servant,Single / not married,0
+231,101570,Cash loans,-15126,Working,Married,1
+271,101867,Cash loans,-14883,Working,Married,0
+293,102029,Cash loans,-16965,State servant,Married,0
+349,102393,Cash loans,-12104,Commercial associate,Married,1
+391,102701,Cash loans,-8199,Working,Single / not married,0
+407,102863,Cash loans,-18610,Working,Civil marriage,0
+422,102971,Cash loans,-19964,Commercial associate,Married,1
+440,103083,Cash loans,-17480,State servant,Married,0
+487,103432,Cash loans,-15257,Working,Married,1
+491,103453,Cash loans,-15806,Commercial associate,Married,0
+530,103676,Cash loans,-21220,Working,Widow,0
+540,103783,Cash loans,-13478,Working,Married,2
+545,103814,Cash loans,-12296,Pensioner,Single / not married,0
+573,103998,Cash loans,-18343,Working,Widow,0
+585,104089,Cash loans,-17325,Working,Married,0
+595,104136,Cash loans,-19827,Working,Married,0
+616,104319,Cash loans,-22112,Pensioner,Married,0
+665,104618,Cash loans,-11171,Working,Married,1
+677,104685,Cash loans,-16035,State servant,Civil marriage,1
+684,104718,Cash loans,-14373,Commercial associate,Married,0
+696,104830,Cash loans,-8560,Commercial associate,Civil marriage,0
+706,104878,Cash loans,-23392,Pensioner,Married,0
+722,104972,Cash loans,-15796,Working,Single / not married,0
+748,105195,Cash loans,-19643,State servant,Separated,0
+766,105282,Cash loans,-17916,Working,Married,0
+778,105370,Cash loans,-14612,State servant,Married,0
+790,105470,Cash loans,-19719,Working,Civil marriage,0
+795,105514,Cash loans,-19907,Commercial associate,Single / not married,0
+808,105621,Cash loans,-16781,Commercial associate,Single / not married,1
+832,105740,Cash loans,-8995,Working,Single / not married,0
+852,105906,Cash loans,-23828,Pensioner,Married,0
+906,106262,Cash loans,-10382,Working,Married,1
+931,106401,Cash loans,-8557,Working,Married,0
+948,106514,Cash loans,-15668,Working,Married,2
+980,106787,Cash loans,-16505,Commercial associate,Civil marriage,0
+1113,107790,Cash loans,-24077,Pensioner,Widow,0
+1169,108295,Cash loans,-16381,Commercial associate,Married,1
+1174,108353,Cash loans,-16850,Commercial associate,Married,0
+1197,108476,Cash loans,-16763,Commercial associate,Separated,0
+1212,108559,Cash loans,-17286,Commercial associate,Single / not married,0
+1215,108572,Cash loans,-21730,Commercial associate,Married,0
+1218,108584,Cash loans,-24642,Pensioner,Married,0
+1226,108643,Cash loans,-19488,Pensioner,Married,0
+1251,108802,Cash loans,-13506,Working,Married,0
+1281,108993,Cash loans,-12303,Commercial associate,Married,0
+1339,109414,Cash loans,-8565,Commercial associate,Single / not married,0
+1353,109505,Cash loans,-19618,Working,Married,0
+1371,109649,Cash loans,-17084,Working,Married,1
+1417,110069,Cash loans,-22951,Pensioner,Married,0
+1475,110550,Cash loans,-23484,Pensioner,Civil marriage,0
+1519,110865,Cash loans,-22423,Pensioner,Single / not married,0
+1521,110889,Cash loans,-16612,Commercial associate,Married,0
+1537,110993,Cash loans,-11443,Working,Separated,0
+1568,111194,Cash loans,-16816,Working,Married,1
+1587,111294,Revolving loans,-14520,State servant,Married,1
+1603,111391,Cash loans,-22579,Pensioner,Civil marriage,0
+1613,111478,Cash loans,-9151,Commercial associate,Married,0
+1614,111482,Cash loans,-16673,Working,Married,0
+1618,111512,Cash loans,-24321,Pensioner,Single / not married,0
+1620,111532,Cash loans,-16009,Commercial associate,Married,0
+1630,111618,Cash loans,-13038,State servant,Single / not married,0
+1777,112604,Cash loans,-10863,Working,Married,1
+1827,112902,Cash loans,-10490,Commercial associate,Single / not married,0
+1899,113406,Cash loans,-14724,Working,Married,2
+1900,113410,Cash loans,-15627,Working,Married,2
+1901,113413,Cash loans,-9976,Commercial associate,Single / not married,0
+1907,113458,Cash loans,-14643,Commercial associate,Married,2
+1926,113585,Cash loans,-17803,Working,Married,0
+1944,113694,Cash loans,-14140,Pensioner,Single / not married,1
+1974,113894,Cash loans,-20457,Pensioner,Married,0
+2036,114291,Cash loans,-9795,Working,Civil marriage,0
+2039,114326,Cash loans,-16255,Commercial associate,Married,0
+2058,114493,Cash loans,-16578,Working,Married,0
+2207,115485,Cash loans,-14436,Working,Married,1
+2219,115592,Cash loans,-18900,Pensioner,Widow,1
+2422,116964,Cash loans,-23836,Pensioner,Married,0
+2484,117341,Cash loans,-17962,Working,Married,0
+2530,117625,Cash loans,-12916,Working,Married,0
+2566,117924,Cash loans,-20386,Pensioner,Married,0
+2576,118000,Cash loans,-18488,Working,Married,0
+2600,118166,Cash loans,-17324,Commercial associate,Married,1
+2619,118326,Cash loans,-15431,Commercial associate,Married,2
+2675,118747,Cash loans,-15793,State servant,Married,0
+2676,118750,Cash loans,-15577,Working,Married,1
+2723,119104,Cash loans,-16756,Working,Married,0
+2735,119191,Cash loans,-13095,Working,Married,0
+2742,119236,Cash loans,-13224,Working,Married,3
+2756,119318,Cash loans,-11415,Working,Married,1
+2814,119749,Cash loans,-16238,Working,Married,0
+2866,120101,Cash loans,-17222,Working,Widow,0
+2883,120227,Cash loans,-14409,Working,Married,1
+2885,120240,Cash loans,-16127,Working,Married,0
+2886,120243,Cash loans,-23154,Pensioner,Single / not married,0
+2910,120437,Cash loans,-11251,Working,Single / not married,0
+2917,120463,Cash loans,-10239,Working,Married,2
+2924,120541,Cash loans,-13080,Commercial associate,Married,2
+2953,120755,Cash loans,-11601,Working,Civil marriage,0
+3021,121186,Cash loans,-18643,Working,Married,0
+3027,121225,Cash loans,-11190,Working,Single / not married,2
+3050,121379,Cash loans,-19808,Working,Married,0
+3094,121733,Cash loans,-11183,Commercial associate,Married,2
+3116,121881,Cash loans,-15392,Commercial associate,Single / not married,0
+3143,122074,Cash loans,-20166,Pensioner,Single / not married,0
+3197,122387,Cash loans,-21644,Working,Married,0
+3205,122452,Cash loans,-16917,Working,Married,0
+3239,122741,Cash loans,-10123,State servant,Married,0
+3261,122902,Cash loans,-19172,Working,Married,0
+3298,123136,Cash loans,-9675,Working,Single / not married,1
+3310,123227,Cash loans,-18158,Working,Married,0
+3317,123260,Cash loans,-12920,Working,Married,1
+3328,123334,Cash loans,-20842,Pensioner,Married,0
+3349,123489,Cash loans,-17961,Working,Married,0
+3367,123576,Cash loans,-21998,Pensioner,Married,0
+3383,123666,Cash loans,-11402,Commercial associate,Married,0
+3386,123688,Cash loans,-10277,Working,Civil marriage,1
+3616,125542,Cash loans,-11367,Commercial associate,Married,0
+3624,125622,Cash loans,-20724,Pensioner,Married,0
+3626,125649,Cash loans,-15923,Working,Married,1
+3707,126366,Cash loans,-13246,Commercial associate,Married,0
+3791,126981,Cash loans,-22626,Pensioner,Married,0
+3925,128005,Cash loans,-14765,Commercial associate,Civil marriage,0
+3997,128471,Cash loans,-15113,Working,Married,0
+4011,128568,Cash loans,-18553,Working,Married,1
+4014,128582,Cash loans,-12035,Working,Single / not married,0
+4034,128770,Cash loans,-17180,Commercial associate,Married,0
+4035,128782,Cash loans,-17894,Working,Married,0
+4046,128883,Cash loans,-22510,Pensioner,Married,0
+4140,129533,Cash loans,-12386,Working,Civil marriage,1
+4237,130261,Cash loans,-11925,Working,Married,0
+4249,130329,Cash loans,-14167,Working,Married,1
+4275,130495,Cash loans,-16011,Commercial associate,Separated,1
+4317,130905,Cash loans,-18863,Working,Married,0
+4337,131045,Cash loans,-10492,Commercial associate,Married,2
+4356,131219,Cash loans,-18082,Working,Married,0
+4364,131268,Cash loans,-10423,Commercial associate,Civil marriage,0
+4373,131322,Cash loans,-15496,Working,Separated,1
+4416,131677,Cash loans,-16313,State servant,Married,0
+4457,131914,Cash loans,-21135,Working,Separated,0
+4571,132756,Cash loans,-22552,Pensioner,Civil marriage,0
+4627,133147,Cash loans,-15022,Working,Married,1
+4681,133587,Cash loans,-8474,Commercial associate,Single / not married,0
+4735,134102,Cash loans,-21298,Pensioner,Widow,0
+4771,134400,Cash loans,-10520,Commercial associate,Married,0
+4772,134405,Cash loans,-10375,State servant,Married,1
+4815,134764,Cash loans,-11315,Working,Civil marriage,0
+4819,134794,Cash loans,-12444,Working,Civil marriage,1
+4829,134857,Cash loans,-18570,Working,Civil marriage,0
+4860,135123,Cash loans,-17965,Working,Civil marriage,0
+4895,135389,Cash loans,-19118,Working,Married,0
+4913,135521,Cash loans,-11685,Working,Married,0
+4975,135941,Cash loans,-12499,Working,Married,0
+5002,136211,Cash loans,-20065,Working,Married,0
+5004,136224,Cash loans,-11271,Working,Married,1
+5005,136234,Cash loans,-22829,Working,Married,0
+5037,136505,Cash loans,-8468,Working,Single / not married,0
+5045,136605,Cash loans,-9458,Working,Married,0
+5055,136663,Cash loans,-16459,Working,Single / not married,1
+5056,136683,Cash loans,-10714,Commercial associate,Single / not married,0
+5106,137049,Cash loans,-15303,Commercial associate,Married,0
+5137,137364,Cash loans,-9202,Working,Single / not married,0
+5163,137624,Cash loans,-21381,Working,Married,0
+5186,137807,Cash loans,-22332,Working,Widow,0
+5194,137875,Cash loans,-15620,Working,Married,0
+5199,137915,Cash loans,-15281,Working,Married,1
+5233,138156,Cash loans,-19011,Working,Married,0
+5236,138177,Cash loans,-11170,Commercial associate,Civil marriage,1
+5243,138243,Cash loans,-17286,Working,Civil marriage,0
+5255,138338,Cash loans,-22812,Commercial associate,Married,0
+5260,138419,Cash loans,-14516,Commercial associate,Married,0
+5269,138492,Cash loans,-14188,Commercial associate,Married,1
+5303,138771,Cash loans,-13057,Working,Married,0
+5319,138917,Cash loans,-15058,Commercial associate,Married,0
+5343,139058,Cash loans,-15716,Commercial associate,Married,1
+5345,139067,Cash loans,-14295,Commercial associate,Married,2
+5392,139326,Cash loans,-18681,Working,Married,0
+5417,139559,Cash loans,-11203,Working,Married,0
+5500,140136,Cash loans,-10911,Commercial associate,Married,0
+5520,140318,Cash loans,-17059,Working,Married,1
+5626,141213,Cash loans,-16751,Working,Married,0
+5642,141347,Cash loans,-12398,Commercial associate,Married,0
+5669,141497,Cash loans,-13985,Working,Married,2
+5685,141602,Cash loans,-11216,Working,Married,0
+5730,142014,Cash loans,-20281,Commercial associate,Civil marriage,0
+5734,142038,Cash loans,-20405,Pensioner,Civil marriage,0
+5752,142162,Cash loans,-16820,State servant,Married,0
+5806,142510,Cash loans,-16743,Working,Married,1
+5823,142653,Cash loans,-11959,Working,Married,0
+5849,142789,Cash loans,-8984,Commercial associate,Single / not married,0
+5861,142883,Cash loans,-14452,Working,Married,1
+5986,143820,Cash loans,-13575,Working,Married,0
+5988,143828,Cash loans,-23576,Pensioner,Married,0
+6052,144354,Cash loans,-10509,Commercial associate,Single / not married,0
+6139,144965,Cash loans,-20534,Pensioner,Married,0
+6140,144966,Cash loans,-9099,Working,Single / not married,0
+6289,146086,Cash loans,-14254,Working,Married,2
+6318,146232,Cash loans,-13024,State servant,Married,2
+6344,146413,Cash loans,-23716,Pensioner,Widow,0
+6402,146821,Cash loans,-20985,Pensioner,Widow,0
+6408,146918,Cash loans,-21120,Pensioner,Married,0
+6433,147133,Cash loans,-18882,Commercial associate,Married,0
+6474,147438,Cash loans,-20645,Pensioner,Widow,0
+6475,147439,Cash loans,-11325,Working,Separated,1
+6529,147942,Cash loans,-12019,Commercial associate,Married,1
+6540,148025,Cash loans,-11211,Working,Married,2
+6595,148386,Cash loans,-11212,Commercial associate,Civil marriage,0
+6685,149157,Cash loans,-15266,Working,Married,0
+6690,149165,Cash loans,-21373,Working,Married,0
+6722,149372,Cash loans,-14422,Working,Married,1
+6769,149680,Cash loans,-8109,Working,Single / not married,0
+6770,149711,Cash loans,-19151,Working,Married,0
+6804,150007,Cash loans,-24049,Pensioner,Married,0
+6807,150054,Cash loans,-11624,Working,Married,2
+6842,150258,Cash loans,-15656,Commercial associate,Married,0
+6865,150431,Cash loans,-10161,Commercial associate,Civil marriage,0
+6889,150594,Cash loans,-10308,Working,Married,1
+6981,151070,Cash loans,-15736,Pensioner,Single / not married,0
+7000,151187,Cash loans,-22435,Pensioner,Single / not married,0
+7017,151308,Cash loans,-14561,Working,Married,1
+7119,152076,Cash loans,-17838,Commercial associate,Married,0
+7130,152141,Cash loans,-20422,Pensioner,Married,0
+7134,152171,Cash loans,-13693,Working,Married,1
+7137,152192,Cash loans,-10566,Working,Married,0
+7142,152256,Cash loans,-21266,Working,Married,0
+7150,152324,Cash loans,-17994,Working,Civil marriage,0
+7172,152477,Cash loans,-10941,Working,Married,2
+7174,152522,Cash loans,-15398,Working,Married,0
+7189,152632,Cash loans,-12624,Commercial associate,Single / not married,1
+7218,152833,Cash loans,-10673,Working,Married,1
+7254,153022,Cash loans,-9683,State servant,Married,0
+7275,153139,Cash loans,-16584,Commercial associate,Married,0
+7348,153759,Cash loans,-12210,Commercial associate,Married,0
+7366,153882,Cash loans,-22848,Pensioner,Married,0
+7452,154580,Cash loans,-18362,Commercial associate,Married,0
+7456,154650,Cash loans,-13469,Working,Married,1
+7462,154711,Cash loans,-21856,Pensioner,Single / not married,2
+7466,154747,Cash loans,-9742,Working,Married,2
+7520,155052,Cash loans,-19738,Pensioner,Married,0
+7529,155094,Cash loans,-9038,Working,Married,1
+7533,155117,Cash loans,-10836,Working,Married,0
+7565,155382,Cash loans,-18846,Commercial associate,Civil marriage,0
+7575,155482,Cash loans,-19111,Working,Married,0
+7577,155485,Cash loans,-18536,Working,Married,1
+7592,155593,Cash loans,-19691,Commercial associate,Separated,0
+7606,155723,Cash loans,-17163,Working,Married,0
+7638,155988,Cash loans,-18759,Working,Single / not married,0
+7752,156903,Cash loans,-9803,Commercial associate,Married,0
+7781,157125,Cash loans,-21430,Pensioner,Married,0
+7784,157157,Cash loans,-18779,State servant,Married,0
+7791,157212,Cash loans,-21770,Pensioner,Widow,0
+7822,157456,Cash loans,-15338,Working,Married,0
+7869,157827,Cash loans,-12554,Working,Civil marriage,1
+7915,158107,Cash loans,-11805,Working,Married,2
+7918,158128,Cash loans,-14230,Working,Married,2
+7919,158142,Cash loans,-18811,Working,Single / not married,0
+7995,158642,Cash loans,-13323,Commercial associate,Married,0
+8028,158831,Cash loans,-14377,Working,Married,0
+8029,158840,Cash loans,-21191,Pensioner,Married,0
+8038,158911,Cash loans,-21810,Pensioner,Single / not married,0
+8051,159016,Cash loans,-10274,Working,Married,1
+8078,159240,Cash loans,-15739,Working,Civil marriage,0
+8119,159555,Cash loans,-20670,Pensioner,Married,0
+8173,159903,Cash loans,-10971,Working,Single / not married,0
+8175,159914,Cash loans,-10288,Working,Single / not married,0
+8202,160101,Cash loans,-14698,Working,Married,1
+8284,160710,Cash loans,-8819,Commercial associate,Married,1
+8307,160837,Cash loans,-9847,Commercial associate,Single / not married,0
+8326,160983,Cash loans,-23173,Pensioner,Married,0
+8384,161368,Cash loans,-18682,Working,Married,0
+8388,161398,Cash loans,-10169,Working,Married,1
+8400,161527,Cash loans,-14360,Commercial associate,Married,0
+8441,161813,Cash loans,-13298,Commercial associate,Married,2
+8473,162022,Cash loans,-8693,Working,Single / not married,0
+8493,162120,Cash loans,-11589,Commercial associate,Separated,1
+8532,162347,Cash loans,-16616,Working,Married,0
+8606,162898,Cash loans,-12620,Working,Married,1
+8691,163492,Cash loans,-18719,Working,Married,0
+8725,163728,Cash loans,-10176,Commercial associate,Married,0
+8736,163802,Cash loans,-9996,Working,Married,0
+8758,163965,Cash loans,-19513,Commercial associate,Married,0
+8769,164037,Cash loans,-23008,Commercial associate,Widow,0
+8774,164095,Cash loans,-8728,Commercial associate,Married,0
+8777,164117,Cash loans,-14819,Working,Civil marriage,0
+8808,164305,Cash loans,-17767,Commercial associate,Married,0
+8816,164343,Cash loans,-21505,Working,Married,0
+8834,164537,Cash loans,-11031,Working,Single / not married,0
+8934,165199,Cash loans,-19039,Working,Married,0
+9039,165917,Cash loans,-12091,Commercial associate,Married,0
+9048,165951,Cash loans,-13636,Working,Civil marriage,1
+9054,165977,Cash loans,-20841,State servant,Married,0
+9084,166197,Cash loans,-14817,Commercial associate,Married,1
+9121,166536,Cash loans,-8510,Working,Married,0
+9130,166582,Cash loans,-9218,State servant,Married,0
+9157,166814,Cash loans,-12414,Working,Married,1
+9172,166922,Cash loans,-12158,Working,Married,1
+9187,166995,Cash loans,-17122,Commercial associate,Married,1
+9189,167001,Cash loans,-20568,State servant,Married,0
+9191,167007,Cash loans,-11374,State servant,Civil marriage,0
+9197,167057,Cash loans,-12927,Commercial associate,Married,0
+9208,167096,Cash loans,-22651,Pensioner,Married,0
+9234,167260,Cash loans,-10254,Commercial associate,Civil marriage,0
+9345,168032,Cash loans,-24230,Pensioner,Married,0
+9346,168046,Cash loans,-17646,Working,Married,0
+9359,168135,Cash loans,-13349,Commercial associate,Married,0
+9426,168720,Cash loans,-19387,Working,Married,0
+9430,168738,Cash loans,-19143,Working,Married,1
+9474,169003,Cash loans,-13379,Working,Married,0
+9507,169248,Cash loans,-13519,Working,Married,0
+9513,169269,Cash loans,-8176,Working,Married,0
+9586,169680,Cash loans,-12842,Working,Civil marriage,1
+9667,170285,Cash loans,-23141,Pensioner,Single / not married,0
+9708,170523,Cash loans,-13241,Commercial associate,Civil marriage,0
+9722,170598,Cash loans,-12645,Commercial associate,Married,4
+9733,170662,Cash loans,-12217,Commercial associate,Married,2
+9771,170973,Cash loans,-10547,Commercial associate,Separated,1
+9835,171388,Cash loans,-16117,Working,Married,0
+9870,171677,Cash loans,-17160,Working,Civil marriage,0
+9900,171864,Cash loans,-17536,Working,Married,0
+9945,172205,Cash loans,-19110,Commercial associate,Married,0
+9948,172261,Cash loans,-10950,Working,Civil marriage,1
+9975,172479,Cash loans,-10626,Working,Single / not married,0
+10082,173160,Cash loans,-16480,Commercial associate,Married,1
+10084,173193,Cash loans,-21387,Pensioner,Married,0
+10087,173216,Cash loans,-11660,Working,Married,0
+10099,173312,Cash loans,-14083,Commercial associate,Civil marriage,0
+10179,174008,Cash loans,-10680,Working,Married,0
+10185,174052,Cash loans,-13928,Commercial associate,Married,1
+10203,174156,Cash loans,-22227,Pensioner,Widow,0
+10204,174160,Cash loans,-15755,State servant,Single / not married,1
+10236,174384,Revolving loans,-17559,Working,Married,0
+10272,174610,Cash loans,-10463,Working,Married,0
+10345,175138,Cash loans,-23123,Working,Widow,0
+10353,175233,Cash loans,-21983,Pensioner,Married,0
+10545,176580,Cash loans,-22417,Pensioner,Widow,0
+10567,176710,Cash loans,-12500,Working,Married,2
+10572,176733,Cash loans,-16599,Commercial associate,Married,0
+10580,176820,Cash loans,-17679,Working,Civil marriage,0
+10581,176827,Cash loans,-22315,Pensioner,Married,0
+10613,177065,Cash loans,-23402,Pensioner,Widow,0
+10699,177733,Cash loans,-17787,Working,Married,0
+10764,178184,Cash loans,-9233,Working,Single / not married,0
+10811,178517,Cash loans,-19619,Pensioner,Married,0
+10887,179128,Cash loans,-11447,Working,Separated,2
+10910,179235,Cash loans,-10716,Working,Married,1
+10916,179260,Cash loans,-19691,Working,Married,0
+10944,179449,Revolving loans,-9647,Commercial associate,Married,1
+10962,179590,Cash loans,-23081,Pensioner,Married,0
+10979,179662,Cash loans,-18123,Working,Widow,0
+10989,179750,Cash loans,-13659,Working,Single / not married,0
+11022,180017,Cash loans,-14309,Working,Married,2
+11046,180189,Cash loans,-11851,Working,Married,0
+11076,180402,Cash loans,-20788,Pensioner,Single / not married,0
+11124,180739,Cash loans,-16325,Commercial associate,Married,1
+11165,180913,Cash loans,-15860,Commercial associate,Married,1
+11185,181098,Cash loans,-8876,Working,Married,0
+11243,181538,Cash loans,-10255,Working,Single / not married,0
+11251,181599,Cash loans,-16917,Commercial associate,Married,1
+11270,181672,Cash loans,-12871,Commercial associate,Married,0
+11330,182218,Revolving loans,-22187,Pensioner,Civil marriage,0
+11340,182327,Cash loans,-14025,Working,Married,0
+11403,182826,Cash loans,-12381,Commercial associate,Separated,0
+11404,182836,Cash loans,-19191,Pensioner,Married,0
+11409,182864,Cash loans,-17672,Working,Married,0
+11440,183091,Cash loans,-22418,Pensioner,Married,0
+11516,183610,Cash loans,-19035,Working,Married,0
+11536,183792,Cash loans,-17644,Working,Married,0
+11544,183840,Cash loans,-10168,Commercial associate,Married,1
+11578,184106,Cash loans,-18041,Working,Married,0
+11663,184847,Cash loans,-16953,Working,Married,0
+11697,185040,Cash loans,-15586,Commercial associate,Married,0
+11708,185125,Cash loans,-12504,Commercial associate,Married,0
+11716,185181,Cash loans,-19147,Working,Married,0
+11742,185313,Cash loans,-16073,Commercial associate,Married,0
+11800,185669,Cash loans,-20690,Pensioner,Married,0
+11804,185689,Cash loans,-20128,Working,Single / not married,0
+11821,185874,Cash loans,-18158,Working,Married,0
+11841,186014,Cash loans,-9964,Working,Married,0
+11859,186139,Cash loans,-14780,Working,Single / not married,0
+11896,186444,Revolving loans,-21781,Pensioner,Married,0
+11978,186952,Cash loans,-13575,Commercial associate,Civil marriage,2
+12059,187603,Cash loans,-11183,State servant,Married,1
+12071,187717,Cash loans,-18487,Working,Married,0
+12104,187949,Cash loans,-14348,Working,Married,1
+12137,188153,Cash loans,-18472,Working,Single / not married,0
+12161,188324,Cash loans,-22596,Pensioner,Married,0
+12211,188715,Cash loans,-16668,Working,Single / not married,0
+12231,188875,Cash loans,-16778,Working,Married,0
+12238,188928,Cash loans,-9921,Working,Married,1
+12242,188948,Cash loans,-11361,Commercial associate,Married,0
+12277,189252,Cash loans,-16376,Commercial associate,Civil marriage,0
+12301,189397,Cash loans,-14717,Commercial associate,Married,0
+12310,189491,Cash loans,-22965,Pensioner,Married,0
+12347,189799,Cash loans,-16930,Commercial associate,Single / not married,0
+12353,189843,Cash loans,-15974,Working,Married,0
+12398,190200,Cash loans,-9964,Working,Single / not married,0
+12407,190290,Cash loans,-9800,Working,Single / not married,0
+12479,190860,Cash loans,-16143,Working,Married,0
+12505,190993,Cash loans,-14951,Working,Separated,1
+12609,191824,Cash loans,-12210,Commercial associate,Single / not married,0
+12627,191918,Cash loans,-17563,Working,Separated,1
+12736,192721,Cash loans,-15992,Working,Separated,0
+12801,193151,Cash loans,-14399,State servant,Married,2
+12821,193322,Cash loans,-20181,Working,Married,0
+12837,193436,Cash loans,-8870,Working,Single / not married,0
+12851,193507,Cash loans,-17448,Commercial associate,Married,0
+12891,193774,Cash loans,-10688,Working,Separated,0
+12922,193983,Cash loans,-22335,Pensioner,Married,0
+12958,194213,Cash loans,-19455,Commercial associate,Married,0
+12989,194414,Cash loans,-17091,Working,Married,0
+12996,194469,Cash loans,-11570,Working,Married,1
+13003,194523,Cash loans,-13250,Commercial associate,Married,0
+13014,194581,Cash loans,-20536,Commercial associate,Married,0
+13024,194620,Cash loans,-10334,Working,Married,1
+13025,194627,Cash loans,-8459,Working,Single / not married,0
+13062,194887,Cash loans,-11963,Working,Married,1
+13098,195117,Revolving loans,-21178,Pensioner,Widow,0
+13124,195326,Cash loans,-19408,Working,Married,0
+13143,195461,Cash loans,-8049,Working,Single / not married,0
+13146,195466,Cash loans,-18308,Pensioner,Married,0
+13169,195626,Cash loans,-22126,Pensioner,Widow,0
+13179,195710,Cash loans,-10373,Working,Married,0
+13185,195740,Cash loans,-12208,Working,Married,0
+13191,195789,Cash loans,-8845,Working,Single / not married,0
+13243,196085,Cash loans,-16643,Working,Married,1
+13262,196274,Cash loans,-19379,Working,Married,0
+13282,196388,Cash loans,-9114,Commercial associate,Married,1
+13288,196436,Cash loans,-16524,State servant,Married,0
+13333,196747,Cash loans,-22554,Pensioner,Married,0
+13351,196884,Cash loans,-8581,Working,Single / not married,0
+13386,197166,Cash loans,-23290,Pensioner,Married,0
+13462,197603,Cash loans,-11577,State servant,Married,2
+13520,197967,Cash loans,-10404,State servant,Married,1
+13521,197969,Cash loans,-13939,Commercial associate,Married,1
+13539,198099,Cash loans,-18600,Working,Married,0
+13580,198370,Cash loans,-19366,Pensioner,Married,0
+13594,198452,Cash loans,-11403,Working,Married,1
+13604,198568,Cash loans,-19312,Commercial associate,Married,0
+13624,198704,Cash loans,-15469,Commercial associate,Married,1
+13697,199141,Cash loans,-9570,Commercial associate,Single / not married,0
+13758,199560,Cash loans,-10024,State servant,Married,1
+13841,200064,Cash loans,-12371,Working,Married,2
+13862,200207,Cash loans,-15328,Commercial associate,Married,0
+13870,200268,Cash loans,-8084,Working,Married,1
+13871,200277,Cash loans,-20804,Pensioner,Married,0
+13875,200306,Cash loans,-14235,State servant,Married,0
+13883,200383,Cash loans,-12545,Working,Married,0
+13918,200587,Cash loans,-10663,Working,Married,0
+13929,200638,Cash loans,-15401,Working,Married,0
+13945,200756,Cash loans,-12876,Working,Civil marriage,2
+13984,201072,Cash loans,-18600,Commercial associate,Civil marriage,0
+14008,201254,Cash loans,-18080,Working,Single / not married,0
+14022,201347,Cash loans,-10229,Working,Married,0
+14040,201474,Cash loans,-12387,Commercial associate,Married,1
+14074,201674,Cash loans,-24281,Pensioner,Married,0
+14096,201785,Cash loans,-12707,Working,Married,0
+14274,202897,Cash loans,-17472,Working,Married,0
+14297,203089,Cash loans,-23160,Pensioner,Single / not married,0
+14368,203590,Cash loans,-11586,State servant,Married,0
+14389,203769,Cash loans,-23222,Working,Civil marriage,0
+14390,203774,Cash loans,-15546,Working,Single / not married,0
+14404,203870,Cash loans,-16475,Commercial associate,Separated,0
+14425,204027,Cash loans,-13862,State servant,Married,3
+14432,204073,Cash loans,-11590,Working,Single / not married,3
+14441,204139,Cash loans,-10450,Working,Separated,1
+14445,204181,Cash loans,-19161,Working,Married,1
+14589,205204,Cash loans,-15313,State servant,Married,0
+14653,205600,Cash loans,-14208,Working,Civil marriage,1
+14660,205628,Cash loans,-8363,Working,Single / not married,0
+14665,205642,Cash loans,-11314,Commercial associate,Married,1
+14689,205797,Cash loans,-19507,Commercial associate,Married,0
+14700,205836,Cash loans,-9828,Working,Single / not married,0
+14705,205873,Cash loans,-21637,Pensioner,Widow,0
+14779,206424,Cash loans,-12909,Working,Married,2
+14816,206703,Cash loans,-17060,Working,Civil marriage,0
+14837,206831,Cash loans,-24144,Pensioner,Married,0
+14872,207163,Cash loans,-18251,Working,Married,0
+14874,207168,Cash loans,-11301,Working,Married,0
+14913,207428,Cash loans,-14721,Working,Civil marriage,0
+14926,207533,Cash loans,-18131,Working,Married,0
+14967,207865,Cash loans,-19509,Commercial associate,Married,0
+15002,208102,Cash loans,-20610,Pensioner,Married,1
+15012,208149,Cash loans,-22290,Pensioner,Married,0
+15136,209056,Cash loans,-10270,Working,Married,0
+15152,209121,Cash loans,-14737,Working,Married,1
+15243,209845,Cash loans,-13463,Working,Single / not married,0
+15303,210242,Cash loans,-24118,Pensioner,Married,0
+15336,210591,Cash loans,-20612,Pensioner,Married,0
+15340,210616,Cash loans,-14834,Commercial associate,Married,0
+15346,210672,Cash loans,-22369,Pensioner,Civil marriage,0
+15349,210697,Cash loans,-13457,State servant,Married,0
+15400,211131,Cash loans,-11966,Working,Married,1
+15407,211177,Cash loans,-23224,Pensioner,Married,0
+15466,211553,Cash loans,-10439,Working,Single / not married,0
+15473,211577,Cash loans,-19744,Working,Married,0
+15530,212055,Cash loans,-13299,Commercial associate,Separated,2
+15540,212124,Cash loans,-19855,Working,Widow,0
+15552,212242,Cash loans,-15255,Commercial associate,Married,2
+15576,212409,Cash loans,-10359,State servant,Married,0
+15623,212763,Cash loans,-10425,Working,Single / not married,0
+15648,212912,Cash loans,-19665,Working,Separated,0
+15657,212958,Cash loans,-23745,Working,Married,0
+15782,213804,Cash loans,-9022,Working,Single / not married,2
+15810,213984,Cash loans,-22314,Pensioner,Married,0
+15849,214295,Cash loans,-20776,Pensioner,Married,0
+15857,214344,Cash loans,-15131,Commercial associate,Married,0
+15903,214593,Cash loans,-21939,Pensioner,Married,0
+15980,215211,Cash loans,-13389,Working,Civil marriage,0
+16033,215628,Cash loans,-11944,Working,Married,1
+16045,215756,Cash loans,-11590,Commercial associate,Civil marriage,2
+16065,215910,Cash loans,-18021,Working,Married,0
+16107,216219,Cash loans,-19643,Working,Married,0
+16138,216461,Cash loans,-10280,Working,Single / not married,0
+16149,216521,Cash loans,-13446,Working,Married,1
+16174,216679,Cash loans,-11528,Working,Civil marriage,0
+16288,217429,Cash loans,-21642,Pensioner,Married,1
+16320,217703,Cash loans,-17935,Working,Married,0
+16352,217900,Cash loans,-15317,State servant,Married,2
+16388,218177,Cash loans,-16364,Commercial associate,Married,0
+16391,218203,Cash loans,-21662,Pensioner,Married,0
+16409,218353,Cash loans,-25195,Pensioner,Single / not married,0
+16415,218378,Cash loans,-14512,Commercial associate,Single / not married,0
+16477,218893,Cash loans,-21451,Commercial associate,Married,0
+16488,219000,Cash loans,-9668,Commercial associate,Married,1
+16506,219147,Cash loans,-21948,Pensioner,Married,0
+16516,219229,Cash loans,-9977,Working,Single / not married,0
+16561,219579,Cash loans,-16194,Commercial associate,Married,0
+16596,219886,Cash loans,-12799,Commercial associate,Married,1
+16655,220386,Cash loans,-18333,Working,Married,0
+16668,220458,Cash loans,-20087,Pensioner,Married,0
+16740,220972,Cash loans,-14085,Working,Married,0
+16804,221565,Cash loans,-15959,Working,Separated,0
+16836,221804,Cash loans,-20957,Commercial associate,Married,0
+16844,221860,Cash loans,-19338,Working,Married,0
+16861,222010,Cash loans,-16618,Commercial associate,Single / not married,0
+16882,222165,Cash loans,-15804,Working,Married,0
+16896,222281,Cash loans,-20754,Commercial associate,Married,0
+16959,222728,Cash loans,-9208,Working,Married,0
+17024,223288,Cash loans,-16418,Working,Civil marriage,0
+17033,223393,Cash loans,-22165,Pensioner,Married,0
+17038,223470,Cash loans,-22922,Working,Married,0
+17062,223571,Cash loans,-11015,Working,Married,0
+17078,223649,Cash loans,-16686,Commercial associate,Married,1
+17085,223720,Cash loans,-17244,Commercial associate,Separated,1
+17204,224614,Cash loans,-9671,Working,Single / not married,0
+17211,224658,Cash loans,-13338,Commercial associate,Civil marriage,1
+17212,224664,Cash loans,-20805,Working,Separated,0
+17238,224899,Cash loans,-13429,Working,Married,0
+17275,225145,Cash loans,-12915,Working,Married,2
+17325,225601,Cash loans,-15264,Commercial associate,Married,1
+17331,225654,Cash loans,-24111,Commercial associate,Married,0
+17339,225733,Cash loans,-21083,Pensioner,Married,0
+17353,225850,Cash loans,-15256,Working,Civil marriage,0
+17356,225858,Cash loans,-21571,Working,Married,1
+17381,226170,Cash loans,-8641,Commercial associate,Separated,0
+17388,226190,Cash loans,-9458,Working,Civil marriage,1
+17439,226557,Cash loans,-16354,Commercial associate,Married,0
+17461,226766,Cash loans,-9680,Working,Married,2
+17552,227413,Cash loans,-14751,Working,Civil marriage,1
+17576,227585,Cash loans,-10788,Commercial associate,Married,2
+17676,228153,Cash loans,-19839,Pensioner,Married,0
+17706,228334,Cash loans,-19178,Pensioner,Married,0
+17790,228872,Cash loans,-16149,Working,Married,1
+17813,228995,Cash loans,-15770,Working,Married,0
+17845,229223,Cash loans,-11863,Working,Married,0
+17847,229229,Cash loans,-13481,Working,Married,0
+17856,229280,Cash loans,-20705,Working,Married,0
+17871,229427,Cash loans,-22411,Pensioner,Married,0
+17909,229746,Cash loans,-14716,Commercial associate,Married,1
+17949,230056,Cash loans,-17785,Commercial associate,Married,0
+17965,230192,Cash loans,-10222,Working,Married,0
+17994,230449,Cash loans,-16410,State servant,Married,0
+17996,230453,Cash loans,-15009,Commercial associate,Single / not married,0
+17999,230458,Cash loans,-15917,Working,Civil marriage,0
+18028,230716,Cash loans,-14396,State servant,Married,2
+18046,230878,Cash loans,-22642,Pensioner,Married,0
+18060,231065,Cash loans,-14801,Working,Married,0
+18069,231136,Cash loans,-21037,Pensioner,Married,0
+18074,231177,Cash loans,-13464,Working,Married,0
+18075,231189,Cash loans,-21998,Pensioner,Married,0
+18088,231299,Cash loans,-21029,Pensioner,Married,0
+18176,231955,Cash loans,-12770,Working,Married,0
+18225,232325,Cash loans,-18839,Working,Married,0
+18244,232516,Cash loans,-20941,Pensioner,Civil marriage,0
+18337,233301,Cash loans,-22005,Pensioner,Married,0
+18365,233438,Cash loans,-14759,Working,Civil marriage,0
+18393,233603,Cash loans,-8109,Working,Civil marriage,0
+18424,233830,Cash loans,-16157,Working,Married,0
+18438,233901,Revolving loans,-14713,Commercial associate,Married,1
+18481,234232,Cash loans,-13066,Working,Married,1
+18488,234283,Cash loans,-10311,Commercial associate,Married,0
+18528,234599,Cash loans,-11004,Commercial associate,Married,0
+18551,234732,Cash loans,-12315,Commercial associate,Married,1
+18596,235076,Cash loans,-15210,Working,Married,0
+18636,235378,Cash loans,-16871,Working,Married,0
+18640,235423,Cash loans,-20291,Commercial associate,Married,0
+18679,235743,Cash loans,-8526,Working,Single / not married,0
+18780,236508,Cash loans,-13217,Working,Civil marriage,1
+18816,236752,Cash loans,-15622,State servant,Separated,0
+18824,236793,Cash loans,-24727,Pensioner,Married,0
+18825,236797,Cash loans,-10060,Working,Single / not married,0
+18832,236849,Cash loans,-14065,Working,Married,0
+18921,237471,Cash loans,-16923,Working,Civil marriage,0
+18978,237921,Cash loans,-19024,State servant,Married,1
+18994,238065,Cash loans,-24110,Pensioner,Married,0
+19023,238254,Cash loans,-20784,Commercial associate,Married,0
+19135,239051,Cash loans,-12223,Working,Married,2
+19137,239058,Cash loans,-18092,Working,Married,0
+19158,239193,Cash loans,-18181,Commercial associate,Married,2
+19217,239746,Cash loans,-24345,Pensioner,Widow,0
+19220,239765,Cash loans,-18855,Working,Married,0
+19242,239937,Cash loans,-12923,Commercial associate,Married,0
+19243,239938,Cash loans,-15053,Commercial associate,Married,1
+19321,240577,Cash loans,-21732,Working,Married,0
+19408,241192,Cash loans,-10118,Working,Single / not married,0
+19421,241279,Revolving loans,-17529,Commercial associate,Single / not married,0
+19465,241608,Cash loans,-16241,Commercial associate,Married,0
+19469,241642,Cash loans,-18268,State servant,Separated,0
+19473,241654,Cash loans,-14049,Working,Married,0
+19507,241899,Cash loans,-10262,Working,Single / not married,0
+19526,242035,Cash loans,-12374,Working,Married,2
+19562,242285,Cash loans,-9827,Pensioner,Single / not married,0
+19589,242455,Cash loans,-11000,Commercial associate,Married,0
+19596,242498,Cash loans,-12788,Working,Married,3
+19638,242712,Cash loans,-17805,Working,Separated,1
+19647,242766,Cash loans,-19850,Commercial associate,Separated,0
+19653,242800,Cash loans,-21233,Pensioner,Married,0
+19703,243112,Cash loans,-10563,Working,Married,1
+19792,243770,Cash loans,-13107,Working,Single / not married,1
+19793,243774,Cash loans,-12435,Working,Widow,1
+19826,244004,Cash loans,-10488,Working,Civil marriage,1
+19867,244295,Cash loans,-10628,Commercial associate,Married,0
+19882,244396,Cash loans,-11706,State servant,Married,1
+19914,244612,Cash loans,-10477,State servant,Married,1
+19916,244631,Cash loans,-16055,Working,Married,0
+19947,244867,Revolving loans,-11012,Working,Separated,0
+19995,245222,Cash loans,-17326,Working,Married,0
+20000,245244,Cash loans,-18421,Pensioner,Civil marriage,0
+20025,245450,Cash loans,-14790,State servant,Married,2
+20117,246152,Cash loans,-17787,Working,Single / not married,0
+20166,246444,Cash loans,-15003,Working,Single / not married,1
+20221,246820,Cash loans,-10962,Working,Married,0
+20223,246835,Cash loans,-12192,Working,Civil marriage,2
+20226,246849,Cash loans,-10443,Commercial associate,Married,0
+20367,247868,Cash loans,-18699,Working,Married,0
+20393,248039,Cash loans,-15969,Working,Married,1
+20397,248056,Cash loans,-19361,Commercial associate,Civil marriage,0
+20431,248272,Cash loans,-12181,Working,Married,0
+20474,248528,Cash loans,-15090,Working,Married,0
+20490,248626,Cash loans,-12883,State servant,Separated,0
+20492,248628,Cash loans,-13679,Commercial associate,Married,1
+20498,248677,Cash loans,-11158,Working,Single / not married,0
+20501,248699,Cash loans,-21664,Pensioner,Married,0
+20551,249056,Cash loans,-13588,Commercial associate,Married,2
+20619,249559,Cash loans,-18631,Pensioner,Married,0
+20621,249581,Cash loans,-12787,State servant,Married,2
+20653,249801,Cash loans,-12970,Commercial associate,Civil marriage,0
+20676,250022,Cash loans,-24807,Pensioner,Single / not married,0
+20767,250661,Cash loans,-14407,Commercial associate,Married,2
+20847,251272,Cash loans,-12130,Working,Married,3
+20906,251700,Cash loans,-11579,Working,Married,0
+21023,252569,Cash loans,-19826,Working,Married,0
+21033,252653,Cash loans,-20369,Working,Married,0
+21047,252768,Cash loans,-18350,Commercial associate,Married,0
+21057,252862,Cash loans,-23176,Pensioner,Married,0
+21119,253278,Cash loans,-21490,Pensioner,Separated,0
+21121,253298,Cash loans,-15296,Commercial associate,Married,0
+21193,253787,Cash loans,-17649,Working,Married,1
+21198,253837,Cash loans,-12131,Working,Married,1
+21223,254017,Cash loans,-19404,Working,Separated,0
+21249,254226,Cash loans,-21258,State servant,Married,0
+21250,254228,Cash loans,-7852,Commercial associate,Married,0
+21254,254261,Cash loans,-8297,Commercial associate,Married,0
+21264,254355,Cash loans,-22322,Pensioner,Married,0
+21307,254642,Cash loans,-9860,Commercial associate,Married,2
+21355,254998,Cash loans,-12529,Working,Married,0
+21398,255344,Cash loans,-13433,Commercial associate,Married,1
+21403,255371,Cash loans,-22455,Pensioner,Widow,0
+21409,255408,Cash loans,-16063,Working,Married,0
+21457,255717,Cash loans,-20811,State servant,Married,0
+21459,255723,Cash loans,-13101,State servant,Married,2
+21503,255988,Cash loans,-22328,Pensioner,Separated,0
+21518,256108,Cash loans,-24706,Pensioner,Married,0
+21526,256179,Cash loans,-14722,Commercial associate,Married,0
+21542,256293,Cash loans,-14273,Working,Married,2
+21622,256909,Cash loans,-11940,Working,Married,0
+21623,256918,Cash loans,-13189,Commercial associate,Single / not married,1
+21713,257551,Cash loans,-23706,Pensioner,Widow,0
+21728,257624,Cash loans,-12123,Working,Civil marriage,2
+21748,257765,Cash loans,-15515,Commercial associate,Married,1
+21770,257906,Cash loans,-12304,State servant,Married,0
+21824,258334,Cash loans,-23530,Pensioner,Married,0
+21956,259365,Cash loans,-9682,Working,Civil marriage,0
+22047,260108,Cash loans,-17771,Working,Single / not married,0
+22053,260147,Cash loans,-17161,Commercial associate,Married,2
+22070,260301,Cash loans,-10515,Working,Married,1
+22083,260469,Cash loans,-12659,Commercial associate,Married,0
+22159,261069,Cash loans,-17275,Working,Single / not married,0
+22180,261248,Cash loans,-14512,Commercial associate,Married,1
+22311,262140,Cash loans,-14120,Working,Married,2
+22315,262180,Cash loans,-21005,Commercial associate,Separated,0
+22348,262418,Cash loans,-13367,Working,Married,0
+22388,262679,Cash loans,-14538,Working,Married,0
+22401,262784,Cash loans,-15816,Commercial associate,Married,0
+22459,263319,Cash loans,-22933,Pensioner,Married,0
+22477,263492,Cash loans,-18855,Working,Civil marriage,0
+22485,263548,Cash loans,-15259,Working,Married,1
+22486,263561,Cash loans,-11667,Commercial associate,Married,3
+22538,263940,Cash loans,-20334,Pensioner,Married,0
+22567,264077,Cash loans,-12883,Working,Married,0
+22572,264112,Cash loans,-10992,Working,Single / not married,1
+22577,264157,Cash loans,-12860,Working,Married,2
+22631,264545,Cash loans,-15856,Working,Married,0
+22770,265519,Cash loans,-13186,Commercial associate,Married,0
+22827,265969,Cash loans,-12098,Working,Single / not married,0
+22846,266065,Cash loans,-12598,Commercial associate,Civil marriage,0
+22848,266072,Cash loans,-21724,Working,Married,0
+22860,266139,Cash loans,-11883,Working,Married,2
+22923,266635,Cash loans,-11043,Working,Married,2
+22934,266734,Cash loans,-14970,Working,Married,0
+22987,267127,Cash loans,-21858,Pensioner,Separated,0
+22993,267184,Cash loans,-20395,Pensioner,Civil marriage,0
+23018,267341,Cash loans,-11192,Working,Single / not married,0
+23034,267438,Cash loans,-20433,Working,Separated,0
+23054,267581,Cash loans,-20014,State servant,Single / not married,2
+23084,267755,Cash loans,-10743,Working,Married,0
+23203,268645,Cash loans,-11196,Working,Single / not married,0
+23220,268809,Cash loans,-20613,Pensioner,Civil marriage,0
+23235,268934,Cash loans,-14651,Commercial associate,Separated,0
+23258,269098,Cash loans,-15698,Working,Married,1
+23328,269642,Cash loans,-19962,Working,Married,0
+23334,269666,Cash loans,-10350,Working,Single / not married,0
+23349,269750,Cash loans,-11007,Commercial associate,Separated,1
+23373,269960,Cash loans,-13702,Commercial associate,Civil marriage,0
+23378,269993,Cash loans,-14156,Working,Married,0
+23397,270152,Cash loans,-22903,Pensioner,Married,0
+23550,271236,Cash loans,-14411,State servant,Married,1
+23562,271322,Cash loans,-17827,Working,Married,0
+23581,271448,Cash loans,-19677,State servant,Civil marriage,0
+23669,272090,Cash loans,-12338,Commercial associate,Single / not married,0
+23704,272405,Cash loans,-10290,Commercial associate,Married,0
+23721,272522,Cash loans,-16147,Pensioner,Married,0
+23737,272669,Cash loans,-21622,Pensioner,Separated,0
+23749,272744,Cash loans,-18888,Working,Married,0
+23819,273270,Cash loans,-17910,Working,Separated,0
+23863,273660,Cash loans,-15742,Working,Married,0
+23886,273874,Cash loans,-10948,Commercial associate,Married,2
+23914,274070,Cash loans,-20461,Pensioner,Married,0
+23936,274225,Cash loans,-8330,Commercial associate,Single / not married,1
+23975,274521,Cash loans,-13835,Working,Single / not married,0
+24006,274829,Cash loans,-18740,Working,Married,0
+24034,275059,Cash loans,-22044,Pensioner,Married,0
+24053,275203,Cash loans,-8999,Working,Married,1
+24056,275226,Cash loans,-16320,Working,Married,0
+24111,275627,Cash loans,-16542,Commercial associate,Married,0
+24172,276084,Cash loans,-21389,Pensioner,Civil marriage,0
+24221,276488,Cash loans,-11870,Working,Married,1
+24232,276584,Cash loans,-14046,Working,Married,2
+24262,276854,Cash loans,-8171,Commercial associate,Civil marriage,1
+24267,276882,Cash loans,-20621,Pensioner,Married,0
+24280,276993,Cash loans,-12465,Commercial associate,Single / not married,0
+24294,277108,Cash loans,-21688,Pensioner,Widow,0
+24301,277165,Cash loans,-10710,Working,Married,1
+24315,277227,Cash loans,-11165,Working,Married,0
+24320,277274,Cash loans,-11746,Working,Married,1
+24333,277342,Cash loans,-8427,Working,Single / not married,0
+24352,277425,Cash loans,-13617,State servant,Separated,0
+24353,277432,Cash loans,-13622,State servant,Married,0
+24372,277550,Cash loans,-18775,Working,Married,0
+24416,277854,Cash loans,-14478,State servant,Married,2
+24459,278318,Cash loans,-14232,Working,Married,0
+24482,278493,Cash loans,-12561,Commercial associate,Married,0
+24527,278815,Cash loans,-16421,Working,Married,0
+24556,278983,Cash loans,-21862,Pensioner,Married,0
+24736,280095,Cash loans,-20627,Pensioner,Widow,0
+24840,280861,Cash loans,-18562,Commercial associate,Married,0
+24863,281024,Cash loans,-11052,Working,Married,0
+24867,281055,Cash loans,-16335,Working,Married,0
+24919,281592,Cash loans,-16583,Working,Civil marriage,1
+24945,281782,Cash loans,-23424,Pensioner,Married,0
+24989,282056,Cash loans,-17056,Working,Married,0
+25002,282145,Cash loans,-19514,Working,Married,0
+25033,282318,Cash loans,-16103,Working,Married,0
+25120,282974,Cash loans,-14344,Working,Married,0
+25125,282998,Cash loans,-18819,Working,Married,1
+25147,283130,Cash loans,-18136,Commercial associate,Civil marriage,0
+25172,283264,Cash loans,-10543,State servant,Married,0
+25195,283361,Cash loans,-17360,State servant,Married,0
+25219,283555,Cash loans,-10423,Working,Civil marriage,1
+25242,283711,Cash loans,-12270,Working,Married,2
+25410,285006,Cash loans,-22585,Pensioner,Married,0
+25433,285177,Cash loans,-20370,Pensioner,Civil marriage,0
+25464,285399,Cash loans,-12364,Working,Separated,0
+25482,285507,Cash loans,-13173,Working,Married,0
+25516,285746,Cash loans,-24730,Pensioner,Married,0
+25520,285810,Cash loans,-18462,Commercial associate,Married,0
+25533,285880,Cash loans,-14817,State servant,Married,0
+25601,286389,Cash loans,-14793,Working,Married,1
+25607,286423,Cash loans,-21839,Pensioner,Widow,0
+25609,286433,Cash loans,-16015,Working,Married,1
+25622,286516,Cash loans,-14804,Commercial associate,Married,0
+25635,286608,Cash loans,-14500,Working,Civil marriage,0
+25743,287358,Cash loans,-14873,Working,Civil marriage,2
+25747,287378,Cash loans,-16620,Commercial associate,Single / not married,0
+25764,287530,Cash loans,-14733,Working,Married,1
+25769,287574,Cash loans,-13466,Commercial associate,Married,0
+25778,287632,Cash loans,-17900,Working,Married,0
+25789,287729,Cash loans,-22521,Pensioner,Married,0
+25883,288353,Cash loans,-13778,Working,Married,2
+25894,288470,Cash loans,-16022,Working,Separated,0
+25902,288540,Cash loans,-13497,State servant,Married,2
+25924,288671,Cash loans,-10790,Working,Civil marriage,0
+25928,288699,Cash loans,-12587,Working,Married,0
+25937,288780,Cash loans,-18948,Commercial associate,Married,0
+26012,289271,Cash loans,-12876,State servant,Married,1
+26019,289368,Cash loans,-21213,Pensioner,Married,0
+26047,289648,Cash loans,-8718,Working,Single / not married,0
+26051,289674,Cash loans,-21696,Pensioner,Single / not married,0
+26068,289802,Cash loans,-23804,Working,Civil marriage,0
+26126,290200,Cash loans,-20630,Commercial associate,Married,1
+26129,290206,Cash loans,-16891,Working,Married,0
+26170,290541,Cash loans,-10634,Commercial associate,Married,1
+26209,290885,Cash loans,-22370,Pensioner,Married,1
+26307,291543,Cash loans,-14054,Commercial associate,Separated,0
+26479,292655,Cash loans,-19430,Working,Married,0
+26506,292894,Cash loans,-9863,Working,Single / not married,0
+26572,293405,Cash loans,-14546,Working,Married,0
+26645,293985,Cash loans,-18417,Working,Married,1
+26707,294509,Cash loans,-13586,Working,Married,2
+26709,294519,Cash loans,-14227,Commercial associate,Civil marriage,1
+26769,294982,Cash loans,-13959,Working,Single / not married,3
+26782,295073,Cash loans,-14809,Commercial associate,Civil marriage,0
+26832,295434,Cash loans,-23333,Pensioner,Widow,0
+26916,296183,Cash loans,-19900,Working,Married,0
+26995,296803,Cash loans,-11203,Working,Single / not married,0
+27009,296903,Cash loans,-13197,Working,Separated,0
+27077,297385,Cash loans,-17204,Working,Married,0
+27099,297521,Cash loans,-12288,Working,Married,0
+27102,297575,Cash loans,-17910,Working,Separated,0
+27186,298223,Cash loans,-10567,Commercial associate,Single / not married,1
+27200,298349,Cash loans,-11329,State servant,Married,0
+27205,298380,Cash loans,-15648,Working,Married,0
+27227,298533,Cash loans,-20019,Commercial associate,Single / not married,1
+27260,298792,Cash loans,-14810,Commercial associate,Married,0
+27278,298866,Cash loans,-15466,Working,Civil marriage,0
+27350,299488,Cash loans,-22298,State servant,Married,0
+27406,299985,Cash loans,-17746,Working,Married,0
+27408,300011,Cash loans,-10058,State servant,Civil marriage,0
+27507,300680,Cash loans,-13463,Working,Married,2
+27531,300868,Cash loans,-10762,Working,Married,1
+27560,301073,Cash loans,-23352,Pensioner,Married,0
+27572,301169,Cash loans,-14460,Working,Married,0
+27653,301734,Cash loans,-12416,State servant,Married,1
+27692,302007,Cash loans,-10637,Working,Married,0
+27703,302093,Cash loans,-14622,Working,Married,2
+27710,302160,Cash loans,-17471,Commercial associate,Married,1
+27720,302216,Cash loans,-15699,Commercial associate,Civil marriage,1
+27746,302403,Cash loans,-18790,Commercial associate,Married,0
+27769,302580,Cash loans,-13985,Working,Married,0
+27779,302673,Cash loans,-19920,Working,Married,0
+27797,302827,Cash loans,-20801,Pensioner,Married,0
+27800,302877,Cash loans,-17840,Pensioner,Married,0
+27827,303066,Cash loans,-24403,Pensioner,Widow,0
+27871,303416,Cash loans,-13156,Working,Married,0
+27875,303446,Cash loans,-13114,Working,Single / not married,0
+27879,303473,Cash loans,-18425,Working,Civil marriage,0
+27892,303525,Cash loans,-13324,Working,Married,0
+27942,303939,Cash loans,-13161,Working,Married,2
+27947,303978,Cash loans,-16184,Working,Married,0
+28017,304481,Cash loans,-10618,Working,Married,0
+28052,304710,Cash loans,-23179,Pensioner,Civil marriage,0
+28110,305121,Cash loans,-11354,Commercial associate,Married,0
+28137,305293,Cash loans,-23790,Pensioner,Married,0
+28205,305809,Cash loans,-13729,Working,Married,0
+28222,305905,Cash loans,-17054,Commercial associate,Single / not married,0
+28236,305998,Cash loans,-20297,Working,Married,0
+28238,306012,Cash loans,-22075,Pensioner,Widow,0
+28260,306150,Cash loans,-14763,Working,Married,2
+28261,306153,Cash loans,-16307,Commercial associate,Married,1
+28316,306651,Cash loans,-13567,State servant,Married,2
+28324,306716,Cash loans,-15740,State servant,Married,0
+28438,307520,Cash loans,-18142,Commercial associate,Single / not married,0
+28476,307824,Cash loans,-19071,Working,Married,0
+28506,308008,Cash loans,-21721,Pensioner,Single / not married,0
+28537,308190,Cash loans,-17865,Commercial associate,Married,0
+28575,308467,Cash loans,-19354,Commercial associate,Married,0
+28603,308678,Cash loans,-16331,Working,Separated,0
+28623,308789,Cash loans,-19200,Commercial associate,Civil marriage,0
+28636,308892,Cash loans,-21806,Working,Married,0
+28663,309018,Cash loans,-12684,Commercial associate,Single / not married,0
+28687,309204,Cash loans,-20591,Pensioner,Married,0
+28722,309478,Cash loans,-20447,State servant,Married,0
+28727,309536,Cash loans,-13461,Commercial associate,Married,0
+28837,310203,Cash loans,-24049,Pensioner,Married,0
+28856,310307,Cash loans,-14581,Commercial associate,Civil marriage,0
+28962,311064,Cash loans,-10787,Commercial associate,Civil marriage,0
+28971,311128,Cash loans,-24267,Pensioner,Single / not married,0
+28992,311310,Cash loans,-10908,Working,Married,1
+29004,311370,Cash loans,-16110,State servant,Married,0
+29063,311776,Cash loans,-20657,Working,Civil marriage,0
+29201,312796,Cash loans,-10320,Commercial associate,Single / not married,0
+29211,312856,Cash loans,-21017,Working,Married,0
+29270,313297,Cash loans,-11284,Working,Single / not married,0
+29308,313550,Cash loans,-14720,Commercial associate,Single / not married,1
+29346,313795,Cash loans,-13559,Working,Married,2
+29407,314198,Cash loans,-9984,Working,Civil marriage,1
+29422,314306,Cash loans,-9333,State servant,Civil marriage,1
+29471,314627,Cash loans,-16313,Commercial associate,Married,1
+29624,315641,Cash loans,-19830,State servant,Single / not married,0
+29669,315947,Cash loans,-15573,Working,Separated,0
+29671,315971,Cash loans,-22487,Pensioner,Separated,0
+29692,316093,Cash loans,-24776,State servant,Married,0
+29716,316269,Cash loans,-16193,Working,Separated,0
+29771,316703,Cash loans,-19569,Pensioner,Separated,0
+29778,316764,Cash loans,-17282,Commercial associate,Married,0
+29798,316906,Cash loans,-20337,Pensioner,Married,0
+29870,317455,Cash loans,-14517,Commercial associate,Married,0
+29945,318000,Cash loans,-20152,Working,Married,0
+30108,319067,Cash loans,-13664,Working,Single / not married,0
+30117,319117,Cash loans,-23648,Pensioner,Widow,0
+30119,319126,Cash loans,-11725,Working,Married,2
+30149,319329,Cash loans,-15609,Working,Married,0
+30179,319519,Cash loans,-10554,Working,Married,2
+30190,319579,Cash loans,-15664,Working,Civil marriage,0
+30233,319837,Cash loans,-22366,Pensioner,Civil marriage,0
+30243,319897,Cash loans,-13888,Working,Married,0
+30281,320181,Cash loans,-17866,Commercial associate,Married,0
+30337,320614,Cash loans,-13644,Working,Married,2
+30373,320851,Cash loans,-21538,Pensioner,Married,1
+30389,320954,Cash loans,-21793,Pensioner,Married,0
+30452,321370,Cash loans,-13233,Working,Married,0
+30488,321659,Cash loans,-20819,Working,Civil marriage,0
+30569,322227,Cash loans,-18540,Working,Married,1
+30580,322285,Cash loans,-11617,Working,Separated,0
+30589,322350,Cash loans,-21872,Pensioner,Separated,0
+30647,322711,Cash loans,-16116,Commercial associate,Single / not married,0
+30675,322938,Cash loans,-9608,Working,Married,1
+30699,323056,Cash loans,-8542,Working,Single / not married,0
+30725,323236,Cash loans,-14441,Commercial associate,Married,1
+30814,323860,Cash loans,-14612,Commercial associate,Married,0
+30836,323985,Cash loans,-9550,Working,Single / not married,0
+31000,325303,Cash loans,-14962,Commercial associate,Married,1
+31039,325601,Cash loans,-22422,Pensioner,Widow,0
+31069,325832,Cash loans,-11359,Working,Single / not married,0
+31114,326087,Cash loans,-13209,Commercial associate,Married,2
+31189,326693,Cash loans,-8538,Commercial associate,Single / not married,0
+31231,326988,Cash loans,-24590,Pensioner,Married,0
+31259,327216,Cash loans,-18555,Commercial associate,Single / not married,0
+31261,327222,Cash loans,-21963,Pensioner,Married,0
+31270,327276,Cash loans,-21816,Pensioner,Single / not married,0
+31300,327562,Cash loans,-16345,Commercial associate,Married,1
+31307,327618,Cash loans,-15367,Working,Separated,0
+31321,327726,Cash loans,-14781,State servant,Married,1
+31337,327819,Cash loans,-22582,Pensioner,Widow,0
+31352,327917,Cash loans,-10207,Working,Separated,0
+31364,328017,Cash loans,-8408,Commercial associate,Single / not married,0
+31385,328195,Cash loans,-19438,State servant,Married,0
+31416,328456,Cash loans,-15544,Working,Civil marriage,0
+31493,329062,Cash loans,-16431,Working,Married,1
+31494,329064,Cash loans,-13709,Working,Married,0
+31516,329219,Cash loans,-20318,Pensioner,Married,0
+31522,329252,Cash loans,-14643,Working,Married,0
+31527,329310,Cash loans,-14241,Commercial associate,Separated,1
+31563,329553,Cash loans,-16388,Commercial associate,Single / not married,0
+31581,329700,Cash loans,-19544,Working,Married,0
+31598,329788,Cash loans,-9494,State servant,Married,1
+31661,330270,Cash loans,-22956,Pensioner,Married,0
+31700,330602,Cash loans,-18148,Working,Widow,0
+31766,331141,Cash loans,-17841,Commercial associate,Married,0
+31799,331411,Cash loans,-15964,Working,Separated,0
+31917,332351,Cash loans,-15870,Working,Widow,0
+31926,332464,Cash loans,-12213,Working,Single / not married,1
+32042,333406,Cash loans,-9877,Working,Single / not married,0
+32090,333687,Cash loans,-8664,Commercial associate,Separated,0
+32092,333689,Cash loans,-16918,Commercial associate,Married,0
+32136,334045,Cash loans,-9312,Working,Single / not married,0
+32163,334231,Cash loans,-15541,Working,Civil marriage,0
+32178,334305,Cash loans,-10414,Working,Single / not married,0
+32183,334344,Cash loans,-22024,Pensioner,Married,0
+32261,334873,Cash loans,-18552,Working,Married,0
+32264,334898,Cash loans,-13036,Working,Married,1
+32306,335198,Cash loans,-13646,State servant,Married,0
+32309,335218,Cash loans,-14758,Working,Married,2
+32347,335425,Cash loans,-12750,Working,Single / not married,1
+32358,335477,Revolving loans,-10906,Commercial associate,Married,1
+32381,335608,Cash loans,-21194,State servant,Separated,0
+32389,335726,Cash loans,-9610,State servant,Married,1
+32390,335727,Cash loans,-14968,Working,Married,0
+32394,335747,Cash loans,-22164,Pensioner,Widow,0
+32425,335955,Cash loans,-16547,State servant,Single / not married,0
+32429,335962,Cash loans,-22629,Pensioner,Married,0
+32452,336137,Cash loans,-18845,Working,Married,0
+32465,336220,Cash loans,-19760,Commercial associate,Single / not married,0
+32485,336367,Cash loans,-17136,Commercial associate,Married,0
+32496,336445,Cash loans,-10101,Working,Married,2
+32508,336534,Cash loans,-8496,Working,Civil marriage,1
+32608,337338,Cash loans,-8528,Commercial associate,Single / not married,1
+32623,337460,Cash loans,-20116,Pensioner,Single / not married,0
+32651,337700,Cash loans,-8942,Commercial associate,Married,0
+32662,337846,Cash loans,-20124,Commercial associate,Single / not married,0
+32687,338084,Cash loans,-17906,Commercial associate,Married,1
+32698,338174,Cash loans,-21682,Commercial associate,Married,0
+32710,338250,Cash loans,-20268,Commercial associate,Married,0
+32715,338293,Cash loans,-10036,Working,Married,2
+32885,339621,Cash loans,-15397,Commercial associate,Married,0
+32903,339755,Cash loans,-19114,Commercial associate,Separated,0
+32945,340031,Cash loans,-13230,Working,Married,0
+32964,340195,Cash loans,-22996,Pensioner,Widow,0
+32969,340221,Cash loans,-22607,Pensioner,Married,0
+32981,340377,Cash loans,-19098,Commercial associate,Single / not married,0
+33014,340545,Cash loans,-13000,Working,Married,2
+33136,341427,Cash loans,-13982,State servant,Married,0
+33155,341562,Cash loans,-20216,Pensioner,Married,0
+33160,341630,Cash loans,-17895,Working,Married,0
+33171,341728,Cash loans,-17681,Pensioner,Married,0
+33224,342163,Cash loans,-17126,Pensioner,Married,0
+33305,342792,Cash loans,-21741,Pensioner,Widow,0
+33316,342851,Cash loans,-16849,Commercial associate,Single / not married,0
+33344,343221,Cash loans,-18144,Working,Married,0
+33376,343436,Cash loans,-11586,Working,Married,0
+33424,343918,Cash loans,-12646,Commercial associate,Married,2
+33448,344053,Cash loans,-20903,Pensioner,Married,0
+33455,344088,Cash loans,-23193,Pensioner,Married,0
+33530,344621,Cash loans,-22972,Pensioner,Widow,0
+33533,344660,Cash loans,-15506,Working,Married,1
+33549,344783,Cash loans,-14179,Working,Single / not married,1
+33586,345085,Cash loans,-14856,Working,Married,0
+33659,345560,Cash loans,-19615,State servant,Married,0
+33767,346373,Cash loans,-15085,State servant,Married,3
+33808,346672,Cash loans,-22177,Pensioner,Widow,0
+33848,346951,Cash loans,-21638,Pensioner,Civil marriage,0
+33923,347621,Cash loans,-14779,Working,Married,0
+33928,347665,Cash loans,-22088,Pensioner,Married,0
+33965,347876,Cash loans,-9791,Working,Single / not married,0
+33976,347919,Cash loans,-14699,Working,Civil marriage,0
+33984,348031,Cash loans,-16353,Working,Married,0
+34055,348551,Cash loans,-19219,State servant,Single / not married,0
+34064,348630,Cash loans,-14360,Working,Married,0
+34093,348875,Cash loans,-15621,Working,Married,1
+34153,349306,Cash loans,-21638,Pensioner,Married,0
+34289,350376,Cash loans,-18453,Working,Married,0
+34298,350446,Cash loans,-10369,Working,Single / not married,0
+34309,350543,Cash loans,-9621,Working,Single / not married,0
+34312,350558,Revolving loans,-16831,Working,Married,0
+34340,350740,Cash loans,-20933,Working,Widow,0
+34437,351458,Cash loans,-20657,Pensioner,Separated,1
+34442,351526,Cash loans,-9591,Working,Single / not married,0
+34443,351535,Cash loans,-22962,Pensioner,Married,0
+34540,352273,Cash loans,-21290,Pensioner,Married,0
+34587,352708,Cash loans,-20121,Pensioner,Separated,0
+34649,353210,Cash loans,-13917,Working,Married,1
+34704,353688,Cash loans,-14408,Working,Married,0
+34722,353845,Cash loans,-16420,Working,Married,1
+34762,354140,Cash loans,-16786,State servant,Married,2
+34843,354694,Cash loans,-11387,Working,Single / not married,2
+34857,354817,Revolving loans,-16851,Commercial associate,Married,0
+34863,354851,Revolving loans,-17628,Working,Married,1
+34896,355114,Cash loans,-15367,Working,Single / not married,0
+34918,355293,Cash loans,-14186,Commercial associate,Married,0
+34935,355382,Cash loans,-17158,Commercial associate,Separated,0
+34995,355877,Cash loans,-12813,Commercial associate,Married,2
+34999,355930,Cash loans,-22751,Pensioner,Married,0
+35000,355935,Cash loans,-13775,Working,Married,0
+35001,355942,Cash loans,-8704,Commercial associate,Single / not married,0
+35017,356038,Cash loans,-15055,Working,Married,0
+35046,356281,Cash loans,-22139,Pensioner,Married,0
+35075,356558,Cash loans,-8059,Commercial associate,Single / not married,0
+35113,356795,Cash loans,-20190,Working,Single / not married,0
+35139,356963,Cash loans,-9847,Working,Married,1
+35179,357268,Cash loans,-17619,Working,Single / not married,0
+35180,357270,Cash loans,-16201,Commercial associate,Married,2
+35197,357384,Cash loans,-22826,Pensioner,Married,0
+35201,357439,Cash loans,-13426,Working,Married,2
+35230,357707,Cash loans,-22974,Pensioner,Married,0
+35233,357755,Cash loans,-18945,Working,Widow,0
+35298,358309,Cash loans,-14336,Commercial associate,Married,1
+35300,358342,Cash loans,-21625,Pensioner,Single / not married,0
+35318,358490,Cash loans,-9950,Working,Single / not married,0
+35322,358512,Cash loans,-13157,Working,Married,1
+35333,358632,Cash loans,-8549,Working,Single / not married,0
+35356,358809,Cash loans,-17231,Working,Married,0
+35406,359182,Cash loans,-15513,Working,Married,0
+35415,359258,Cash loans,-17516,Working,Widow,0
+35493,359780,Cash loans,-15006,Working,Civil marriage,2
+35501,359855,Cash loans,-19123,Working,Married,0
+35516,360004,Cash loans,-11508,Working,Single / not married,0
+35529,360106,Cash loans,-22026,Pensioner,Separated,0
+35532,360126,Cash loans,-24176,Pensioner,Married,0
+35553,360249,Cash loans,-9951,Working,Married,0
+35607,360539,Cash loans,-20819,Working,Married,0
+35632,360767,Cash loans,-9974,Working,Widow,0
+35638,360801,Cash loans,-17491,Working,Widow,1
+35657,360893,Cash loans,-14652,Commercial associate,Married,0
+35683,361135,Cash loans,-20717,Pensioner,Civil marriage,0
+35711,361340,Cash loans,-21240,Pensioner,Single / not married,0
+35734,361557,Cash loans,-15046,Working,Single / not married,0
+35747,361606,Cash loans,-11850,Working,Married,1
+35790,361962,Cash loans,-14429,Pensioner,Married,0
+35872,362450,Cash loans,-16257,Working,Civil marriage,1
+35914,362789,Revolving loans,-14756,Working,Single / not married,0
+35960,363142,Cash loans,-13144,Working,Married,2
+35985,363316,Cash loans,-11686,Working,Single / not married,0
+36017,363539,Cash loans,-19818,Working,Separated,0
+36046,363745,Cash loans,-23555,Pensioner,Married,0
+36053,363782,Cash loans,-14254,Working,Married,2
+36081,364014,Cash loans,-19233,Working,Married,0
+36175,364767,Cash loans,-11621,Working,Married,0
+36191,364872,Cash loans,-15078,Commercial associate,Married,2
+36206,364959,Cash loans,-23466,Pensioner,Civil marriage,0
+36318,365861,Cash loans,-22035,Pensioner,Widow,0
+36351,366078,Cash loans,-9895,Working,Married,1
+36352,366081,Cash loans,-15833,Working,Married,0
+36417,366530,Cash loans,-19148,Working,Married,0
+36463,366790,Cash loans,-11466,Working,Married,1
+36472,366879,Cash loans,-18093,Working,Married,0
+36487,366988,Cash loans,-12302,State servant,Married,1
+36502,367089,Cash loans,-16124,Working,Single / not married,0
+36534,367386,Cash loans,-12384,State servant,Married,1
+36576,367698,Cash loans,-14562,Working,Married,1
+36578,367712,Cash loans,-17115,Working,Married,1
+36647,368166,Cash loans,-13874,Working,Married,0
+36669,368334,Cash loans,-15604,Commercial associate,Married,0
+36800,369361,Cash loans,-12020,Commercial associate,Married,1
+36827,369601,Cash loans,-11601,Working,Married,0
+36838,369684,Cash loans,-21464,State servant,Married,0
+36872,369901,Cash loans,-20100,Commercial associate,Married,0
+36876,369911,Cash loans,-19844,Pensioner,Married,0
+36898,370033,Cash loans,-19479,Working,Widow,0
+36903,370088,Cash loans,-16455,Working,Single / not married,0
+36922,370213,Cash loans,-20034,Working,Widow,0
+36929,370255,Cash loans,-11923,Working,Single / not married,0
+36938,370330,Cash loans,-12402,Working,Married,0
+37033,370921,Cash loans,-19723,Working,Married,0
+37039,370968,Cash loans,-22668,Commercial associate,Married,0
+37089,371323,Cash loans,-15531,Commercial associate,Married,1
+37126,371548,Cash loans,-15234,Working,Married,0
+37159,371797,Cash loans,-16357,Working,Married,1
+37166,371828,Cash loans,-14988,Working,Married,0
+37248,372489,Cash loans,-21825,Working,Single / not married,0
+37283,372806,Cash loans,-9260,Working,Single / not married,1
+37284,372809,Cash loans,-15257,Working,Married,1
+37302,372955,Cash loans,-22327,Pensioner,Married,0
+37312,373023,Cash loans,-20981,Working,Widow,0
+37349,373297,Cash loans,-18581,Commercial associate,Married,0
+37352,373307,Cash loans,-18831,Commercial associate,Married,0
+37367,373474,Cash loans,-10964,Commercial associate,Married,1
+37512,374536,Cash loans,-23722,Pensioner,Widow,0
+37522,374617,Cash loans,-9775,Commercial associate,Married,0
+37549,374819,Cash loans,-14697,Working,Married,0
+37564,374896,Cash loans,-9809,Working,Married,1
+37576,374943,Cash loans,-8833,Working,Married,0
+37577,374951,Cash loans,-10941,Commercial associate,Married,1
+37669,376000,Cash loans,-12697,Working,Married,0
+37793,376527,Cash loans,-16378,Working,Married,0
+37815,376632,Revolving loans,-15137,Commercial associate,Civil marriage,0
+37880,377738,Revolving loans,-23041,Pensioner,Widow,0
+37920,377990,Cash loans,-13911,Commercial associate,Married,2
+37957,378063,Cash loans,-13931,Working,Married,0
+37994,378311,Cash loans,-13120,Working,Married,1
+38048,379076,Cash loans,-20506,Pensioner,Separated,0
+38210,380773,Cash loans,-15051,Working,Separated,0
+38216,380797,Cash loans,-15885,Working,Single / not married,0
+38251,381047,Cash loans,-20548,Pensioner,Civil marriage,0
+38275,381185,Cash loans,-24286,State servant,Single / not married,0
+38311,381436,Cash loans,-23372,Pensioner,Married,0
+38360,381728,Cash loans,-14937,Working,Married,0
+38400,382051,Cash loans,-23700,Pensioner,Single / not married,0
+38401,382066,Cash loans,-9978,Working,Married,0
+38414,382131,Cash loans,-21620,Pensioner,Married,0
+38424,382144,Cash loans,-13461,State servant,Married,1
+38437,382391,Cash loans,-11782,Working,Civil marriage,0
+38480,382873,Cash loans,-9428,Working,Single / not married,0
+38493,382887,Cash loans,-22533,State servant,Married,0
+38519,383195,Cash loans,-12101,Commercial associate,Married,0
+38573,383454,Cash loans,-15120,Working,Widow,0
+38587,383841,Cash loans,-22205,Pensioner,Married,0
+38660,384542,Cash loans,-20832,Pensioner,Separated,0
+38701,384794,Cash loans,-24257,Pensioner,Married,0
+38729,384878,Cash loans,-19903,Commercial associate,Widow,0
+38797,385522,Cash loans,-11822,Working,Civil marriage,1
+38820,385867,Cash loans,-20674,Pensioner,Married,0
+38826,385885,Cash loans,-20009,Pensioner,Married,0
+38831,385899,Cash loans,-15812,Commercial associate,Married,0
+38866,386276,Cash loans,-9616,Working,Married,0
+38920,386777,Cash loans,-17206,Commercial associate,Married,0
+38934,386819,Cash loans,-15415,Working,Married,0
+38965,387021,Cash loans,-19446,Commercial associate,Widow,0
+39007,387501,Cash loans,-11834,Working,Civil marriage,0
+39033,387882,Cash loans,-10971,Commercial associate,Single / not married,0
+39120,388249,Cash loans,-11614,Commercial associate,Married,1
+39132,388266,Cash loans,-15572,Working,Civil marriage,0
+39157,388572,Cash loans,-10562,State servant,Married,1
+39159,388585,Cash loans,-21528,Pensioner,Married,0
+39171,388655,Cash loans,-10601,Working,Married,3
+39235,389080,Cash loans,-15401,State servant,Married,0
+39270,389398,Cash loans,-13282,Working,Married,2
+39286,389480,Cash loans,-14132,State servant,Married,0
+39305,389563,Cash loans,-10414,Working,Single / not married,0
+39344,389818,Cash loans,-16900,Working,Married,0
+39361,389934,Cash loans,-14486,Working,Married,1
+39442,390510,Cash loans,-12701,State servant,Married,2
+39572,391505,Cash loans,-13742,Working,Married,0
+39579,391552,Cash loans,-10582,Working,Single / not married,0
+39592,391635,Cash loans,-20527,Pensioner,Married,0
+39641,392013,Cash loans,-17178,Working,Married,0
+39648,392049,Cash loans,-21335,Pensioner,Married,0
+39655,392106,Cash loans,-10608,Working,Married,1
+39676,392243,Cash loans,-12191,Working,Married,1
+39768,392882,Cash loans,-12479,Working,Civil marriage,2
+39791,393009,Cash loans,-18273,Working,Married,0
+39795,393035,Cash loans,-22109,Pensioner,Civil marriage,0
+39806,393129,Cash loans,-11435,Working,Married,0
+39853,393507,Cash loans,-15614,Commercial associate,Married,0
+39870,393650,Cash loans,-22352,Pensioner,Married,0
+39878,393691,Cash loans,-19063,State servant,Civil marriage,1
+39890,393778,Cash loans,-11763,Working,Civil marriage,0
+39959,394240,Cash loans,-9123,Working,Married,1
+39977,394347,Cash loans,-10491,Working,Married,2
+40024,394712,Cash loans,-11708,Working,Married,1
+40028,394742,Cash loans,-12409,Working,Married,1
+40070,395110,Cash loans,-22162,Pensioner,Married,0
+40090,395271,Cash loans,-12545,Commercial associate,Married,0
+40098,395338,Cash loans,-19641,State servant,Civil marriage,0
+40112,395459,Cash loans,-11062,Working,Married,0
+40145,395672,Cash loans,-20212,Pensioner,Civil marriage,0
+40151,395699,Cash loans,-21904,Pensioner,Married,0
+40206,396063,Cash loans,-17493,Commercial associate,Civil marriage,0
+40209,396087,Cash loans,-13138,Commercial associate,Married,1
+40235,396331,Cash loans,-17368,Commercial associate,Civil marriage,0
+40244,396380,Cash loans,-10888,Working,Married,1
+40274,396549,Cash loans,-20939,Pensioner,Single / not married,0
+40339,396984,Cash loans,-21503,Working,Widow,0
+40340,396986,Cash loans,-23097,Pensioner,Married,0
+40391,397281,Cash loans,-19098,Commercial associate,Married,0
+40406,397458,Cash loans,-18328,Commercial associate,Married,0
+40453,397759,Cash loans,-8528,Working,Single / not married,0
+40536,398360,Cash loans,-8800,Commercial associate,Single / not married,0
+40636,399074,Cash loans,-14780,Working,Married,0
+40648,399160,Cash loans,-15362,Working,Married,0
+40695,399483,Cash loans,-19337,Working,Married,0
+40705,399538,Cash loans,-15248,Working,Married,0
+40719,399639,Cash loans,-13239,Working,Married,0
+40779,400017,Cash loans,-15216,Working,Married,0
+40867,400833,Cash loans,-14152,Working,Married,1
+40922,401137,Cash loans,-16770,Working,Single / not married,0
+40996,401686,Cash loans,-14901,Commercial associate,Married,1
+41036,401971,Cash loans,-9687,Working,Married,0
+41050,402043,Cash loans,-15061,Working,Married,2
+41068,402081,Cash loans,-16861,Working,Married,0
+41086,402227,Cash loans,-20377,Working,Married,0
+41110,402270,Cash loans,-15599,Working,Married,2
+41176,402640,Cash loans,-22031,Commercial associate,Married,0
+41193,402705,Cash loans,-8680,Working,Civil marriage,0
+41204,402745,Cash loans,-13539,Commercial associate,Single / not married,0
+41247,402977,Cash loans,-23549,Pensioner,Married,0
+41285,403376,Cash loans,-20328,Working,Married,1
+41370,403801,Cash loans,-22902,Pensioner,Married,0
+41522,404406,Cash loans,-24651,Pensioner,Widow,0
+41643,405443,Cash loans,-8834,Working,Single / not married,0
+41702,405691,Cash loans,-14426,State servant,Married,1
+41726,405855,Cash loans,-13177,Working,Married,2
+41740,405930,Cash loans,-8874,Commercial associate,Civil marriage,0
+41770,406053,Cash loans,-17675,Commercial associate,Civil marriage,0
+41789,406135,Cash loans,-13494,Working,Married,1
+41820,406336,Cash loans,-21511,Pensioner,Separated,0
+41854,406786,Cash loans,-12408,Working,Married,1
+41974,407341,Cash loans,-13731,Working,Separated,0
+42038,407680,Cash loans,-14969,Commercial associate,Civil marriage,0
+42050,407702,Cash loans,-19619,Commercial associate,Married,0
+42055,407731,Cash loans,-21129,Pensioner,Married,0
+42061,407753,Cash loans,-11176,Working,Married,0
+42065,407765,Cash loans,-19160,Commercial associate,Married,0
+42077,407784,Cash loans,-23163,Pensioner,Single / not married,1
+42084,407832,Cash loans,-13190,Commercial associate,Married,0
+42110,407952,Cash loans,-20142,Pensioner,Widow,0
+42125,408056,Cash loans,-15581,Working,Married,2
+42128,408074,Cash loans,-22277,Pensioner,Married,0
+42181,408406,Cash loans,-18909,Commercial associate,Married,0
+42256,408863,Cash loans,-8646,Working,Married,1
+42268,408932,Cash loans,-14027,Working,Married,0
+42273,408985,Cash loans,-23041,Pensioner,Widow,0
+42333,409259,Cash loans,-9845,State servant,Single / not married,0
+42404,409805,Cash loans,-15307,Commercial associate,Married,1
+42405,409812,Cash loans,-24327,Pensioner,Married,0
+42407,409836,Cash loans,-17080,State servant,Married,1
+42432,410024,Cash loans,-13758,Working,Married,0
+42535,410577,Cash loans,-14357,Working,Married,0
+42547,410661,Cash loans,-12544,Commercial associate,Single / not married,2
+42548,410663,Cash loans,-20415,Working,Married,0
+42552,410679,Cash loans,-12769,Working,Single / not married,0
+42573,410778,Cash loans,-9543,Commercial associate,Married,0
+42649,411115,Cash loans,-17138,Working,Single / not married,0
+42682,411360,Cash loans,-17049,Working,Civil marriage,1
+42688,411425,Cash loans,-8252,Working,Single / not married,0
+42717,411648,Cash loans,-18702,Commercial associate,Married,0
+42773,411977,Cash loans,-16200,State servant,Married,1
+42785,412047,Cash loans,-16836,Working,Single / not married,0
+42843,412472,Cash loans,-12867,State servant,Married,0
+42873,412637,Cash loans,-11244,State servant,Separated,1
+42876,412640,Cash loans,-16358,Working,Civil marriage,0
+42879,412643,Cash loans,-9787,Working,Married,0
+42907,412829,Cash loans,-13087,Working,Married,1
+42926,413017,Cash loans,-14268,Working,Married,2
+42929,413038,Cash loans,-11337,Working,Married,0
+42952,413160,Cash loans,-17961,Working,Separated,0
+42988,413377,Cash loans,-12185,Working,Separated,0
+43083,413756,Cash loans,-18529,Working,Single / not married,0
+43093,413769,Cash loans,-13446,Commercial associate,Married,0
+43183,414275,Cash loans,-13466,Commercial associate,Married,2
+43264,414879,Cash loans,-13929,Working,Married,0
+43273,414969,Cash loans,-18184,Working,Single / not married,0
+43293,415074,Cash loans,-17224,Working,Married,2
+43376,415545,Cash loans,-8283,State servant,Single / not married,0
+43389,415705,Cash loans,-13750,Commercial associate,Married,2
+43391,415709,Cash loans,-23541,Pensioner,Married,0
+43431,416253,Cash loans,-19947,Commercial associate,Married,0
+43453,416301,Cash loans,-9952,Working,Married,2
+43463,416313,Cash loans,-10175,Working,Married,0
+43464,416314,Cash loans,-23682,Pensioner,Married,0
+43480,416676,Cash loans,-14227,Commercial associate,Married,0
+43499,416877,Cash loans,-12945,Working,Married,3
+43511,416894,Cash loans,-8810,Commercial associate,Married,0
+43547,417265,Cash loans,-11367,Working,Married,0
+43561,417401,Cash loans,-14660,State servant,Married,1
+43600,417452,Cash loans,-19458,Working,Separated,0
+43679,418458,Cash loans,-10980,Working,Married,1
+43696,418581,Cash loans,-10713,Working,Married,0
+43703,418593,Cash loans,-15419,Working,Married,0
+43737,418957,Cash loans,-14277,Working,Separated,1
+43787,419611,Cash loans,-15799,Working,Civil marriage,1
+43792,419671,Cash loans,-9308,Commercial associate,Single / not married,0
+43839,419830,Cash loans,-10344,Working,Separated,0
+43911,420354,Cash loans,-13758,State servant,Married,0
+43947,420617,Cash loans,-8377,Working,Married,1
+43952,420622,Cash loans,-10402,State servant,Single / not married,0
+43979,420844,Cash loans,-16497,Working,Single / not married,0
+44015,420887,Cash loans,-18289,Pensioner,Married,0
+44036,421431,Cash loans,-12630,Working,Married,0
+44042,421614,Cash loans,-10118,Commercial associate,Separated,1
+44043,421690,Cash loans,-22390,Commercial associate,Married,0
+44098,422042,Cash loans,-12843,Commercial associate,Married,0
+44101,422045,Cash loans,-12908,Working,Married,0
+44129,422308,Cash loans,-10161,State servant,Civil marriage,0
+44172,422734,Cash loans,-16821,Working,Married,0
+44178,422850,Cash loans,-10922,Commercial associate,Married,1
+44194,423083,Cash loans,-11297,Commercial associate,Married,0
+44215,423141,Cash loans,-17343,Working,Married,0
+44216,423143,Cash loans,-13610,Commercial associate,Married,1
+44220,423147,Cash loans,-9701,Working,Married,1
+44228,423155,Cash loans,-16037,Working,Married,0
+44232,423159,Cash loans,-10509,Working,Separated,1
+44235,423386,Cash loans,-9337,Working,Civil marriage,2
+44305,423746,Cash loans,-22816,Working,Separated,0
+44424,424765,Cash loans,-18442,Working,Married,1
+44458,424845,Cash loans,-23560,Pensioner,Widow,0
+44516,425396,Cash loans,-19736,Commercial associate,Single / not married,0
+44525,425407,Cash loans,-12929,Working,Married,2
+44550,425440,Cash loans,-19005,Working,Married,0
+44569,425462,Cash loans,-24188,Pensioner,Married,0
+44572,425810,Cash loans,-22464,Pensioner,Separated,0
+44581,425906,Cash loans,-22929,Pensioner,Married,0
+44609,425969,Cash loans,-14285,Working,Married,1
+44665,427063,Cash loans,-12011,Working,Married,2
+44666,427064,Cash loans,-20144,Working,Separated,0
+44672,427072,Cash loans,-18556,Working,Married,0
+44689,427120,Cash loans,-23392,Pensioner,Civil marriage,0
+44769,427656,Cash loans,-23363,Pensioner,Widow,0
+44786,427676,Cash loans,-13203,Working,Married,2
+44796,428080,Cash loans,-9550,Working,Single / not married,0
+44801,428188,Cash loans,-11455,Commercial associate,Married,0
+44803,428195,Cash loans,-15325,Working,Married,1
+44821,428222,Cash loans,-11036,Commercial associate,Single / not married,0
+44843,428312,Cash loans,-17441,Working,Married,1
+44892,428842,Cash loans,-16381,Working,Separated,0
+44944,429243,Cash loans,-21665,Pensioner,Married,0
+44946,429266,Cash loans,-11075,Working,Single / not married,0
+44950,429297,Cash loans,-16759,Working,Separated,0
+44951,429299,Cash loans,-19140,Pensioner,Married,0
+44959,429359,Cash loans,-12330,Working,Married,0
+44992,429528,Cash loans,-22768,Pensioner,Married,0
+45089,430210,Cash loans,-13596,Working,Married,0
+45100,430301,Cash loans,-14136,Commercial associate,Married,2
+45127,430477,Cash loans,-22077,Commercial associate,Married,0
+45190,430927,Cash loans,-18324,Working,Married,0
+45203,430992,Cash loans,-19411,Pensioner,Married,0
+45291,431652,Cash loans,-16247,Working,Separated,0
+45311,431768,Cash loans,-13830,Working,Separated,1
+45338,431916,Cash loans,-11908,Commercial associate,Married,0
+45362,432078,Cash loans,-12820,Working,Married,2
+45397,432301,Cash loans,-19423,Commercial associate,Married,1
+45416,432415,Cash loans,-14897,Commercial associate,Married,0
+45428,432473,Cash loans,-13827,Working,Married,0
+45453,432591,Cash loans,-19777,Commercial associate,Single / not married,0
+45461,432618,Cash loans,-18132,Working,Married,2
+45477,432699,Cash loans,-11492,Commercial associate,Married,1
+45483,432728,Cash loans,-15402,Working,Married,0
+45486,432746,Cash loans,-8460,State servant,Married,0
+45540,433117,Cash loans,-11873,Commercial associate,Single / not married,0
+45595,433440,Cash loans,-14923,Commercial associate,Civil marriage,0
+45596,433441,Cash loans,-18789,Working,Single / not married,0
+45728,434224,Cash loans,-19551,Commercial associate,Married,0
+45750,434408,Cash loans,-16173,Commercial associate,Married,0
+45757,434460,Cash loans,-22090,Working,Married,0
+45780,434607,Cash loans,-22596,Pensioner,Married,0
+45792,434698,Cash loans,-12916,Commercial associate,Separated,2
+45799,434739,Cash loans,-16045,Commercial associate,Married,0
+45819,434921,Cash loans,-10143,Working,Married,0
+45831,434993,Cash loans,-18649,Pensioner,Married,0
+45870,435222,Cash loans,-16587,Working,Married,1
+45929,435683,Cash loans,-18270,Commercial associate,Married,0
+45965,435965,Cash loans,-10816,Working,Married,2
+46034,436426,Cash loans,-10417,Working,Married,1
+46039,436478,Cash loans,-24713,Pensioner,Married,0
+46048,436534,Cash loans,-11267,Working,Single / not married,0
+46084,436893,Cash loans,-11878,Working,Civil marriage,0
+46086,436896,Cash loans,-20862,Pensioner,Married,0
+46092,436961,Cash loans,-19652,Working,Married,0
+46131,437266,Cash loans,-15713,Working,Married,0
+46155,437426,Cash loans,-15152,Commercial associate,Married,0
+46177,437532,Cash loans,-10247,Working,Married,0
+46196,437631,Cash loans,-12355,Commercial associate,Married,3
+46202,437689,Cash loans,-12237,Commercial associate,Single / not married,0
+46210,437795,Cash loans,-17073,Commercial associate,Single / not married,0
+46233,437966,Cash loans,-14541,Commercial associate,Married,1
+46328,438687,Cash loans,-20716,Pensioner,Single / not married,0
+46379,439050,Cash loans,-24122,Pensioner,Single / not married,0
+46421,439310,Cash loans,-13031,Working,Married,2
+46465,439611,Cash loans,-12443,Working,Separated,0
+46517,439950,Cash loans,-13675,Working,Married,2
+46525,439994,Cash loans,-11085,Working,Married,0
+46536,440088,Cash loans,-16181,Working,Civil marriage,0
+46571,440313,Cash loans,-9824,Working,Married,1
+46573,440320,Cash loans,-20790,Working,Married,0
+46606,440572,Cash loans,-9467,Working,Married,1
+46640,440884,Cash loans,-12016,Working,Married,0
+46686,441207,Cash loans,-17850,Working,Married,0
+46719,441453,Cash loans,-19177,Pensioner,Married,0
+46776,441871,Cash loans,-15439,Working,Married,1
+46826,442159,Cash loans,-19525,State servant,Widow,0
+46891,442626,Cash loans,-17869,Working,Married,0
+46907,442724,Cash loans,-16569,Commercial associate,Single / not married,0
+46925,442854,Cash loans,-13009,Working,Married,2
+46965,443193,Cash loans,-23506,Pensioner,Married,0
+46976,443264,Cash loans,-18378,Commercial associate,Married,0
+46989,443355,Cash loans,-11880,Working,Separated,0
+46993,443368,Cash loans,-15395,Working,Married,1
+47003,443441,Cash loans,-21802,Pensioner,Married,0
+47012,443490,Cash loans,-12458,Commercial associate,Married,0
+47022,443588,Cash loans,-23808,Pensioner,Single / not married,0
+47034,443633,Cash loans,-16778,Commercial associate,Married,0
+47076,443986,Cash loans,-12417,Working,Single / not married,0
+47139,444434,Cash loans,-17372,Working,Married,0
+47238,445192,Cash loans,-14393,Working,Married,1
+47240,445200,Cash loans,-21174,Pensioner,Single / not married,0
+47266,445465,Cash loans,-16932,Working,Single / not married,0
+47406,446543,Cash loans,-16455,Working,Single / not married,0
+47414,446616,Cash loans,-12350,Working,Married,0
+47471,446949,Cash loans,-19985,Commercial associate,Married,1
+47475,446979,Cash loans,-15040,Working,Married,2
+47488,447092,Cash loans,-23690,Pensioner,Married,0
+47527,447420,Cash loans,-11845,Commercial associate,Married,0
+47536,447496,Cash loans,-13006,Working,Married,0
+47547,447554,Cash loans,-12490,Commercial associate,Married,2
+47623,448016,Cash loans,-19641,Working,Married,0
+47656,448284,Cash loans,-17476,Working,Married,0
+47723,448778,Cash loans,-9612,Working,Married,0
+47747,448958,Cash loans,-17079,State servant,Single / not married,0
+47752,449000,Cash loans,-20489,Pensioner,Married,0
+47789,449253,Cash loans,-17770,Commercial associate,Married,0
+47822,449534,Cash loans,-15807,Commercial associate,Married,0
+47885,449897,Cash loans,-23312,Pensioner,Married,0
+47979,450568,Cash loans,-23235,Pensioner,Married,0
+48029,450917,Cash loans,-11379,Commercial associate,Married,1
+48033,450929,Cash loans,-20470,Working,Married,0
+48044,451037,Cash loans,-21112,Commercial associate,Married,0
+48092,451347,Cash loans,-15303,Commercial associate,Married,0
+48171,451873,Cash loans,-8646,Commercial associate,Single / not married,0
+48185,451983,Cash loans,-16241,Commercial associate,Married,0
+48210,452172,Cash loans,-10696,Working,Single / not married,0
+48243,452414,Cash loans,-11424,State servant,Married,0
+48263,452619,Cash loans,-11350,Working,Married,2
+48273,452690,Cash loans,-10623,Commercial associate,Single / not married,1
+48343,453212,Cash loans,-22466,Pensioner,Married,0
+48361,453354,Cash loans,-12866,Commercial associate,Married,1
+48362,453356,Cash loans,-13354,Working,Civil marriage,0
+48368,453390,Cash loans,-17705,Working,Married,0
+48376,453442,Cash loans,-12080,Commercial associate,Married,2
+48484,454192,Cash loans,-15464,Commercial associate,Married,0
+48485,454198,Cash loans,-18008,Commercial associate,Married,0
+48507,454345,Cash loans,-19266,Pensioner,Married,0
+48544,454618,Cash loans,-9652,Working,Single / not married,0
+48615,455164,Cash loans,-16166,Working,Married,1
+48623,455212,Cash loans,-12301,Working,Separated,0
+48667,455539,Cash loans,-19882,Working,Widow,0
+48695,455829,Cash loans,-21833,Pensioner,Married,0
+48715,455965,Cash loans,-17293,Working,Married,0
+48724,456111,Cash loans,-15847,Working,Civil marriage,1
