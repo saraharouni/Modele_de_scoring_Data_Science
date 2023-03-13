@@ -244,18 +244,18 @@ with col_kpi_client:
             else:
                 col_kpi_client.metric(label=f"{y_variable}",value=client_data[y_variable].astype(str).iloc[0])
     else :
-         # Déterminer si x_variable est numérique
-         if isinstance(x_variable, (int, float)):
+        # Déterminer si x_variable est numérique
+        if isinstance(x_variable, (int, float)):
              col_kpi_client.metric(label=f"{x_variable}",value=round(client_data.iloc[:, df_dash.columns.get_loc(x_variable)],2))
-         else:
+        else:
              #st.write(f"**KPI x:** {x_variable}")
-             col_kpi_client.metric(label=f"{x_variable}",value=client_data[x_variable].astype(str).iloc[0])
+            col_kpi_client.metric(label=f"{x_variable}",value=client_data[x_variable].astype(str).iloc[0])
 
 
 col_desc_var, col_desc_graph = st.columns(2)
 with col_desc_var:
     with st.expander('Description des variables'):
-       st.write("'Age' : Age du client (années),\n \
+        st.write("'Age' : Age du client (années),\n \
           'Days Employed' : Durée d\'activité (années),\n \
           'Region Rating Client': Note attribuée à la région de résidence,\n \
           'Region Rating Client W City' : Note attribuée à la ville de résidence,\n \
