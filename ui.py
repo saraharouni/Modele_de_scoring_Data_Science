@@ -154,7 +154,7 @@ df_kpi = df_dash.copy()
 if group_select != 'Tous':
     df_train = df_train[df_train[hue_variable] == group_select]
 
-graphique_liste = ['Bar', 'Scatter', 'Line', 'Histogram','Violin']
+graphique_liste = ['Histogram','Bar','Scatter','Line', 'Violin']
 # Création des menus déroulants pour choisir le type de graphique
 chart_type = st.sidebar.selectbox('Choisissez le type de graphique à afficher', graphique_liste)
 
