@@ -156,7 +156,7 @@ if group_select != 'Tous':
 
 graphique_liste = ['Bar', 'Scatter', 'Line', 'Histogram','Violin']
 # Création des menus déroulants pour choisir le type de graphique
-chart_type = st.sidebar.selectbox('Choisissez le type de graphique à afficher', graphique_liste)
+chart_type = st.sidebar.selectbox('Choisissez le type de graphique à afficher', graphique_liste,index=[0])
 
 
 # Variables numériques et catégorielles pour chaque type de graphique
