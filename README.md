@@ -1,5 +1,9 @@
 **P7 - Implémentez un modèle de scoring**
 
+* Lien du dashboard :
+
+https://saraharouni-scoring-ui-fhlf68.streamlit.app/
+
 **Sujet du projet**
 
 Vous êtes Data Scientist au sein d'une société financière, nommée "Prêt à dépenser", qui propose des crédits à la consommation pour des personnes ayant peu ou pas du tout d'historique de prêt.
@@ -15,6 +19,9 @@ Prêt à dépenser décide donc de développer un dashboard interactif pour que 
 * Construire un dashboard interactif à destination des gestionnaires de la relation client permettant d'interpréter les prédictions faites par le modèle, et d’améliorer la connaissance client des chargés de relation client.
 * Mettre en production le modèle de scoring de prédiction à l’aide d’une API, ainsi que le dashboard interactif qui appelle l’API pour les prédictions.
 
+
+* Création d'un tableau de bord avec Streamlit déployé sur Streamlitshare
 **Les fichiers nécessaires pour utiliser ce code sont disponibles sur ce lien**
 
 https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Impl%C3%A9menter+un+mod%C3%A8le+de+scoring/Projet+Mise+en+prod+-+home-credit-default-risk.zip
+
