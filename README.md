@@ -2,7 +2,7 @@
 
 * Lien du dashboard :
 
-https://saraharouni-scoring-ui-fhlf68.streamlit.app/
+https://saraharouni-scoring-dashboardui-4s4rpi.streamlit.app/
 
 **Sujet du projet**
 
