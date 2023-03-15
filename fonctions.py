@@ -123,12 +123,9 @@ def evaluate_classification_model(y_test, y_pred_optimal, y_proba):
     auc = roc_auc_score(y_test, y_proba)
     
      # Compute le score de la fonction coût
-    score_metier = cost_function(y_test, y_pred_optimal)
+    cost = cost_function(y_test, y_pred_optimal)
     
-    # Compute the balanced_accuracy_score
-    
-    balanced_acc = balanced_accuracy_score(y_test, y_pred_optimal)
-    
+       
     # Store the results in a dictionary
     results = {
         "accuracy": accuracy,
@@ -136,8 +133,8 @@ def evaluate_classification_model(y_test, y_pred_optimal, y_proba):
         "precision": precision,
         "recall": recall,
         "auc": auc,
-        "score_metier": score_metier,
-        "balanced_accuracy_score":balanced_acc
+        "cost": cost
+       
     }
     
     return results
@@ -334,11 +331,11 @@ def random_forest(X_train,y_train,X_test,y_test):
      'accuracy': make_scorer(accuracy_score),
     'recall': make_scorer(recall_score),
     'cost': make_scorer(cost_function),
-    'balanced_accuracy' : make_scorer(balanced_accuracy_score)
+    'precision' : make_scorer(precision_score)
     }
    
     # Création de l'objet GridSearchCV pour optimiser les hyperparamètres avec la fonction coût
-    grid_search = GridSearchCV(rf_model, param_grid, scoring=scoring, cv=5,verbose=2, refit='accuracy')
+    grid_search = GridSearchCV(rf_model, param_grid, scoring=scoring, cv=5,verbose=2, refit='precision')
     print('Execution de GridSearchCV sur le modèle')
     # Entraînement du modèle avec la validation croisée
     grid_search.fit(X_train, y_train)
@@ -348,7 +345,7 @@ def random_forest(X_train,y_train,X_test,y_test):
     print("Best accuracy: ", grid_search.best_score_)
     print("Best recall: ", grid_search.cv_results_['mean_test_recall'][grid_search.best_index_])
     print("Best cost: ", grid_search.cv_results_['mean_test_cost'][grid_search.best_index_])
-    print("Best balanced_accuracy: ", grid_search.cv_results_['mean_test_balanced_accuracy'][grid_search.best_index_])
+    print("Best precision score: ", grid_search.cv_results_['mean_test_precision'][grid_search.best_index_])
     
     # Entraînement du modèle sur les données d'entraînement avec les meilleurs hyperparamètres trouvés
     print('Ajustement du modèle avec les paramètres optimisés')
@@ -369,8 +366,17 @@ def random_forest(X_train,y_train,X_test,y_test):
     y_pred_optimal_best = (y_proba_best >= optimal_threshold).astype(int)
     print('Scores du modèle après optimisation')
     
-    print(evaluate_classification_model(y_test, y_pred_optimal_best, y_proba_best))
     results = evaluate_classification_model(y_test, y_pred_optimal_best, y_proba_best)
+     # Enregistrement des metrics dans une dataframe
+    results_df = pd.DataFrame(columns=['Modèle', 'Best accuracy', 'Best recall', 'Best cost','Best precision Score'])
+    # Ajouter les résultats de la recherche de grille à la dataframe
+    results_df.loc[0] = ['Random forest',grid_search.best_score_, 
+                         grid_search.cv_results_['mean_test_recall'][grid_search.best_index_], 
+                         grid_search.cv_results_['mean_test_cost'][grid_search.best_index_], 
+                         grid_search.cv_results_['mean_test_precision'][grid_search.best_index_]]
+    
+    
+    print(results_df)
     print('Affichage des features importances après optimisation')
     print(feature_importance_rf(best_rf_model,x_col))
     
@@ -381,17 +387,7 @@ def random_forest(X_train,y_train,X_test,y_test):
     print(create_classification_report(best_rf_model,y_test,y_pred_optimal_best))
     
     print('Affichage de la matrice de confusion après optimisation')
-    print(create_confusion_matrix_plot(best_rf_model, X_test, y_test))
-    
-    # Enregistrement des metrics dans une dataframe
-    results_df = pd.DataFrame(columns=['Modèle', 'Best accuracy', 'Best recall', 'Best cost', 'Best balanced_accuracy'])
-    # Ajouter les résultats de la recherche de grille à la dataframe
-    results_df.loc[0] = ['Random forest',grid_search.best_score_, 
-                         grid_search.cv_results_['mean_test_recall'][grid_search.best_index_], 
-                         grid_search.cv_results_['mean_test_cost'][grid_search.best_index_], 
-                         grid_search.cv_results_['mean_test_balanced_accuracy'][grid_search.best_index_]]
-    
-    
+    print(create_confusion_matrix_plot(best_rf_model, X_test, y_test))  
     
     return y_pred_optimal, y_proba, rf_model, y_pred_optimal_best, y_proba_best, best_rf_model, results, results_df
 
@@ -483,11 +479,11 @@ def lightgbm(X_train,y_train,X_test,y_test):
      'accuracy': make_scorer(accuracy_score),
     'recall': make_scorer(recall_score),
     'cost': make_scorer(cost_function),
-    'balanced_accuracy' : make_scorer(balanced_accuracy_score)
+    'precision' : make_scorer(precision_score)
     }
    
     # Création de l'objet GridSearchCV pour optimiser les hyperparamètres avec la fonction coût
-    grid_search = GridSearchCV(lgb_model, param_grid, scoring=scoring, cv=5,verbose=2, refit='accuracy')
+    grid_search = GridSearchCV(lgb_model, param_grid, scoring=scoring, cv=5,verbose=2, refit='precision')
     print('Execution de GridSearchCV sur le modèle')
     # Entraînement du modèle avec la validation croisée
     grid_search.fit(X_train, y_train)
@@ -497,7 +493,8 @@ def lightgbm(X_train,y_train,X_test,y_test):
     print("Best accuracy: ", grid_search.best_score_)
     print("Best recall: ", grid_search.cv_results_['mean_test_recall'][grid_search.best_index_])
     print("Best cost: ", grid_search.cv_results_['mean_test_cost'][grid_search.best_index_])
-    print("Best balanced_accuracy: ", grid_search.cv_results_['mean_test_balanced_accuracy'][grid_search.best_index_])
+    print("Best precision score : ",grid_search.cv_results_['mean_test_precision'][grid_search.best_index_])
+    
     
     # Entraînement du modèle sur les données d'entraînement avec les meilleurs hyperparamètres trouvés
     print('Ajustement du modèle avec les paramètres optimisés')
@@ -518,8 +515,18 @@ def lightgbm(X_train,y_train,X_test,y_test):
     y_pred_optimal_best = (y_proba_best >= optimal_threshold).astype(int)
     print('Scores du modèle après optimisation')
     
-    print(evaluate_classification_model(y_test, y_pred_optimal_best, y_proba_best))
+    #print(evaluate_classification_model(y_test, y_pred_optimal_best, y_proba_best))
+    
     results = evaluate_classification_model(y_test, y_pred_optimal_best, y_proba_best)
+    
+    # Enregistrement des metrics dans une dataframe
+    results_df = pd.DataFrame(columns=['Modèle', 'Best accuracy','Best recall', 'Best cost', 'Best precision score'])
+    # Ajouter les résultats de la recherche de grille à la dataframe
+    results_df.loc[0] = ['Lightgbm', grid_search.best_score_, 
+                         grid_search.cv_results_['mean_test_recall'][grid_search.best_index_], 
+                         grid_search.cv_results_['mean_test_cost'][grid_search.best_index_], 
+                         grid_search.cv_results_['mean_test_precision'][grid_search.best_index_]]
+    print(results_df)
     
     print('Affichage des features importances après optimisation')
     print(feature_importance_rf(best_lgb_model,x_col))
@@ -532,17 +539,114 @@ def lightgbm(X_train,y_train,X_test,y_test):
     
     print('Affichage de la matrice de confusion après optimisation')
     print(create_confusion_matrix_plot(best_lgb_model, X_test, y_test))
-    
-    # Enregistrement des metrics dans une dataframe
-    results_df = pd.DataFrame(columns=['Modèle', 'Best accuracy','Best recall', 'Best cost', 'Best balanced_accuracy'])
-    # Ajouter les résultats de la recherche de grille à la dataframe
-    results_df.loc[0] = ['Lightgbm', grid_search.best_score_, 
-                         grid_search.cv_results_['mean_test_recall'][grid_search.best_index_], 
-                         grid_search.cv_results_['mean_test_cost'][grid_search.best_index_], 
-                         grid_search.cv_results_['mean_test_balanced_accuracy'][grid_search.best_index_]]
-    
+       
     return y_pred_optimal, y_proba, lgb_model, y_pred_optimal_best, y_proba_best, best_lgb_model, results, results_df
 
+
+### Fonction équivalente à random forest adaptée à une regression logistique
+def logistic_regression(X_train, y_train, X_test, y_test):
+    print('Création d\'un modèle de régression logistique')
+    logreg_model = LogisticRegression(random_state=42, max_iter=1000)
+    
+    print('Entrainement du modèle sur X_train / y_train')
+    logreg_model.fit(X_train, y_train)
+
+    y_pred = logreg_model.predict(X_test)
+    y_proba = logreg_model.predict_proba(X_test)[:, 1]
+        
+    print('Optimisation du seuil de classification pour maximiser l\'AUC')      
+    # Optimiser le seuil de classification pour maximiser l'AUC
+    fpr, tpr, thresholds = roc_curve(y_test, y_proba)
+    optimal_idx = np.argmax(tpr - fpr)
+    optimal_threshold = thresholds[optimal_idx]
+    
+    y_pred_optimal = (y_proba >= optimal_threshold).astype(int)
+    
+    print('Scores du modèle avant optimisation')
+    print(evaluate_classification_model(y_test, y_pred_optimal, y_proba))
+    
+    print('Affichage de la courbe Roc avant optimisation')
+    print(create_roc_auc_plot(logreg_model,X_test, y_test))
+    
+    print('Affichage du rapport de classification avant optimisation')
+    print(create_classification_report(logreg_model,y_test,y_pred_optimal))
+    
+    print('Affichage de la matrice de confusion avant optimisation')
+    print(create_confusion_matrix_plot(logreg_model, X_test, y_test))
+    
+    print('Création d\'un dictionnaire pour optimiser les paramètres')
+    
+    class_counts = np.bincount(y_train)
+    n_classes = len(class_counts)
+    class_weights = {i: sum(class_counts)/class_counts[i] for i in range(n_classes)}
+    
+    # Optimisation du modèle 
+    param_grid = {
+    'penalty': ['l2'],
+    'C': [0.001, 0.01, 0.1, 1, 10, 100],
+    'class_weight':['balanced', class_weights]   
+    }
+    
+    print('Création d\'un dictionnaire de scoring')
+    
+    scoring = {
+     'accuracy': make_scorer(accuracy_score),
+    'recall': make_scorer(recall_score),
+    'cost': make_scorer(cost_function),
+    'precision' : make_scorer(precision_score)
+    }
+    
+    # Création de l'objet GridSearchCV pour optimiser les hyperparamètres avec la fonction coût
+    grid_search = GridSearchCV(logreg_model, param_grid, scoring=scoring, cv=5,verbose=2, refit='precision')
+    print('Execution de GridSearchCV sur le modèle')
+    # Entraînement du modèle avec la validation croisée
+    grid_search.fit(X_train, y_train)
+
+    # affichage des résultats
+    print("Best parameters: ", grid_search.best_params_)
+    print("Best accuracy: ", grid_search.best_score_)
+    print("Best recall: ", grid_search.cv_results_['mean_test_recall'][grid_search.best_index_])
+    print("Best cost: ", grid_search.cv_results_['mean_test_cost'][grid_search.best_index_])
+    print("Best precision score: ", grid_search.cv_results_['mean_test_precision'][grid_search.best_index_])
+    
+    # Entraînement du modèle sur les données d'entraînement avec les meilleurs hyperparamètres trouvés
+    print('Ajustement du modèle avec les paramètres optimisés')
+    best_lr_model = grid_search.best_estimator_
+    best_lr_model.fit(X_train, y_train)
+
+    y_pred_best = best_lr_model.predict(X_test)
+    y_proba_best = best_lr_model.predict_proba(X_test)[:, 1]
+    
+    print('Optimisation du seuil de classification pour maximiser l\'AUC')      
+    # Optimiser le seuil de classification pour maximiser l'AUC
+    fpr, tpr, thresholds = roc_curve(y_test, y_proba_best)
+    optimal_idx = np.argmax(tpr - fpr)
+    optimal_threshold = thresholds[optimal_idx]
+
+    # Prédire les classes pour l'ensemble de test avec le seuil de classification optimal
+    y_pred_optimal_best = (y_proba_best >= optimal_threshold).astype(int)
+    print('Scores du modèle après optimisation')
+    
+    results = evaluate_classification_model(y_test, y_pred_optimal_best, y_proba_best)
+    # Enregistrement des metrics dans une dataframe
+    results_df = pd.DataFrame(columns=['Modèle', 'Best accuracy', 'Best recall', 'Best cost','Best precision Score'])
+    # Ajouter les résultats de la recherche de grille à la dataframe
+    results_df.loc[0] = ['Logistic Regression', grid_search.best_score_, 
+                         grid_search.cv_results_['mean_test_recall'][grid_search.best_index_], 
+                         grid_search.cv_results_['mean_test_cost'][grid_search.best_index_], 
+                         grid_search.cv_results_['mean_test_precision'][grid_search.best_index_]]
+    
+    print(results_df)
+    print('Affichage de la courbe Roc après optimisation')
+    print(create_roc_auc_plot(best_lr_model,X_test, y_test))
+    
+    print('Affichage du rapport de classification après optimisation')
+    print(create_classification_report(best_lr_model,y_test,y_pred_optimal_best))
+    
+    print('Affichage de la matrice de confusion après optimisation')
+    print(create_confusion_matrix_plot(best_lr_model, X_test, y_test))  
+    
+    return y_pred_optimal, y_proba, logreg_model, y_pred_optimal_best, y_proba_best, best_lr_model, results, results_df
 
 ### Fonction qui permet de créer une expérience sur MlFlow
 
