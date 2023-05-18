@@ -1,9 +1,9 @@
 lightgbm==3.3.3
 Flask==1.0.4
-matplotlib==*
-numpy==*
-pandas==*
-scikit_learn==*
+matplotlib==3.6.2
+numpy==1.21.5
+pandas==1.4.4
+scikit_learn==1.0.2
 seaborn==*
 streamlit==1.18.1
 ipython==8.6.0
