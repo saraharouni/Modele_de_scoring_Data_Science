@@ -1,9 +1,9 @@
-lightgbm==*
-Flask==*
+lightgbm==3.3.3
+Flask==1.0.4
 matplotlib==*
 numpy==*
 pandas==*
 scikit_learn==*
 seaborn==*
-streamlit==*
-ipython==*
+streamlit==1.18.1
+ipython==8.6.0
