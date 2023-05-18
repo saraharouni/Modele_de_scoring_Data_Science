@@ -5,6 +5,7 @@ import pandas as pd
 import seaborn as sns
 import requests
 import warnings 
+import numpy as np
 
 
 warnings.filterwarnings('ignore')
@@ -210,7 +211,8 @@ with col_graph:
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
         
     elif chart_type == 'Histogram':
-        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable,multiple="stack",)
+        df_train.replace([np.inf, -np.inf], np.nan, inplace=True)
+        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable) #,multiple="stack",
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
     
     elif chart_type == 'Box':
