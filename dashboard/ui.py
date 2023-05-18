@@ -213,8 +213,9 @@ with col_graph:
     elif chart_type == 'Histogram':
         df_train.replace([np.inf, -np.inf], np.nan, inplace=True)
         ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable) #,multiple="stack",
-        sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
-    
+        #sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
+        ax.legend(loc="upper left", bbox_to_anchor=(1.1, 0.5))
+        plt.show()
     elif chart_type == 'Box':
         ax = sns.boxplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
         sns.move_legend(ax, loc="center left", bbox_to_anchor=(1.1, 0.5))
