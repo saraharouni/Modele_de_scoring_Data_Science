@@ -87,7 +87,7 @@ df_train['SK_ID_CURR'] = df_train['SK_ID_CURR'].astype('object')
 api_url = "http://sarahkhomsi.pythonanywhere.com/api"
 
 # couleur de fond : #D7D8D7
-image = 'https://raw.githubusercontent.com/saraharouni/Modele_de_scoring_Data_Science/blob/main/dashboard/logo_streamlit.png' 
+image = 'https://github.com/saraharouni/Modele_de_scoring_Data_Science/blob/7bf1b6e1fe13da4c5d24007938f0af6e4ca666a9/dashboard/logo_streamlit.png'
 st.sidebar.image(image, caption='Prêt à dépenser', use_column_width=True)
 # Layout (Sidebar)
 st.sidebar.markdown("## Paramètres")
