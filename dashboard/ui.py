@@ -5,7 +5,6 @@ import pandas as pd
 import seaborn as sns
 import requests
 import warnings 
-import numpy as np
 
 
 warnings.filterwarnings('ignore')
@@ -21,21 +20,21 @@ sns.set_style('darkgrid', {'axes.labelsize': 'large', 'axes.titlesize': 'x-large
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(page_title = "Projet 7 - Implémentez un modèle de scoring", layout="wide")
 
-df_test = pd.read_csv('https://raw.githubusercontent.com/saraharouni/scoring/main/dashboard/df_test_final.csv')
+df_test = pd.read_csv('https://raw.githubusercontent.com/saraharouni/Modele_de_scoring_Data_Science/main/dashboard/df_test_final.csv')
 df_test= df_test.rename(columns={'Unnamed: 0':'SK_ID_CURR'})
 df_test = df_test.iloc[:100,:]
 
 # Ouverture des fichiers
 # Pour afficher les KPI du client
-df_dash = pd.read_csv('https://raw.githubusercontent.com/saraharouni/scoring/main/dashboard/df_dash.csv')
+df_dash = pd.read_csv('https://raw.githubusercontent.com/saraharouni/Modele_de_scoring_Data_Science/main/dashboard/df_dash.csv')
 df_dash = df_dash.drop('Unnamed: 0',axis=1)
 
 #Pour afficher les informations civiles du client
-data_visu = pd.read_csv('https://raw.githubusercontent.com/saraharouni/scoring/main/dashboard/df_test_final_visu.csv')
+data_visu = pd.read_csv('https://raw.githubusercontent.com/saraharouni/Modele_de_scoring_Data_Science/main/dashboard/df_test_final_visu.csv')
 data_visu = data_visu.drop('Unnamed: 0',axis=1)
 
 # Pour réaliser les graphiques de comparaison avec les autres clients
-df_train = pd.read_csv('https://raw.githubusercontent.com/saraharouni/scoring/main/dashboard/df_train_final.csv')
+df_train = pd.read_csv('https://raw.githubusercontent.com/saraharouni/Modele_de_scoring_Data_Science/main/dashboard/df_train_final.csv')
 df_train= df_train.rename(columns={'Unnamed: 0':'SK_ID_CURR'})
 
 
@@ -211,12 +210,9 @@ with col_graph:
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
         
     elif chart_type == 'Histogram':
-        #df_train = df_train.replace([np.inf, -np.inf], np.nan, inplace=True)
-        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable) 
-        #,multiple="stack",
-        #sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
-        #ax.legend(loc="upper left", bbox_to_anchor=(1.1, 0.5))
-        #plt.show()
+        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable,multiple="stack",)
+        sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
+    
     elif chart_type == 'Box':
         ax = sns.boxplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
         sns.move_legend(ax, loc="center left", bbox_to_anchor=(1.1, 0.5))
@@ -293,8 +289,4 @@ if features_graph:
     ax = sns.barplot(data=features_importance[:15], y='Feature',x='Value')
     st.pyplot()
     
-    
-
-
-
-
+   
