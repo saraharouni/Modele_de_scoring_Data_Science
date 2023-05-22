@@ -200,19 +200,16 @@ with col_graph:
     # Création du graphique en fonction du type choisi
     if chart_type == 'Scatter':
         ax = sns.scatterplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
-        sns.move_legend(ax,loc='upper left', bbox_to_anchor=(1.1, 0.5))
-        
+        sns.move_legend(ax,loc='upper left', bbox_to_anchor=(1.1, 0.5))  
     elif chart_type == 'Line':
         ax =sns.lineplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
     elif chart_type == 'Bar':
         ax= sns.barplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
-        
     elif chart_type == 'Histogram':
-        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable,multiple="stack",)
+        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable) #,multiple="stack",
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
-    
     elif chart_type == 'Box':
         ax = sns.boxplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
         sns.move_legend(ax, loc="center left", bbox_to_anchor=(1.1, 0.5))
