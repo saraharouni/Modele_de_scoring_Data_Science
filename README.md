@@ -2,7 +2,7 @@
 
 * Lien du dashboard :
 
-https://saraharouni-scoring-dashboardui-4s4rpi.streamlit.app/
+https://saraharouni-modele-de-scoring-data-science-dashboardui-rfqnjf.streamlit.app/
 
 **Sujet du projet**
 
