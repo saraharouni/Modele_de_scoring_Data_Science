@@ -188,10 +188,10 @@ with col_graph:
         x_variable = st.sidebar.selectbox('Choisissez la variable X', categorical_vars + numeric_vars)
         y_variable = st.sidebar.selectbox('Choisissez la variable Y', numeric_vars)
     
-    elif chart_type in ['Histogram']:
+    elif chart_type =='Histogram':
         # Variables catégorielles pour les graphiques Histogram et Pie
         x_variable = st.sidebar.selectbox('Choisissez la variable X', numeric_vars)
-    elif chart_type in ['Violin']:
+    elif chart_type =='Violin':
         # Variables catégorielles pour les graphiques Histogram et Pie
         x_variable = st.sidebar.selectbox('Choisissez la variable X', categorical_vars)
         y_variable = st.sidebar.selectbox('Choisissez la variable Y', numeric_vars)
@@ -208,7 +208,7 @@ with col_graph:
         ax= sns.barplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
     elif chart_type == 'Histogram':
-        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable) #,multiple="stack",
+        ax = sns.histplot(data=df_train, x=x_variable, hue=hue_variable) 
         sns.move_legend(ax, loc="upper left", bbox_to_anchor=(1.1, 0.5))
     elif chart_type == 'Box':
         ax = sns.boxplot(data=df_train, x=x_variable, y=y_variable, hue=hue_variable)
