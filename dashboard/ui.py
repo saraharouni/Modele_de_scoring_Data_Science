@@ -5,7 +5,7 @@ import pandas as pd
 import seaborn as sns
 import requests
 import warnings 
-pd.set_option('mode.use_inf_as_null', True)
+pd.set_option('mode.use_inf_as_null', False)
 
 warnings.filterwarnings('ignore')
 #Paramètres d'accesibilité pour les personnes en situation de handicap:
